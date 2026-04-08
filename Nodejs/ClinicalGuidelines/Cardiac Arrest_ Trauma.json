@@ -1,0 +1,52 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Focus on rapid and early BLS airway and ventilation tools. Intubation may not be the best",
+      "ption for these patients.",
+      "Pediatric pads should be used in children < 10 Kg or PEDIA tape color purple.",
+      "Traumatic Mechanism",
+      "Apnea",
+      "Pulseless",
+      "PEA",
+      "Medical Cardiac Arrest",
+      "Exsanguination",
+      "Tension Pneumothorax",
+      "Pelvic fracture(s)",
+      "Hypoventilation",
+      "Hypovolemia",
+      "Hemorrhage",
+      "Toxins",
+      "Tamponade"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Place tourniquets prior to or concurrent with CPR for major hemorrhagic injuries as indicated.",
+      "Pelvic Binder if blunt trauma involving the abdomen/pelvis.",
+      "Perform Pit Crew CPR for Trauma with basic airway management until ALS (>PL5) arrives, then pause CPR as necessary for correctable traumatic causes of death.",
+      "Co-manage with Trauma Care Guideline & Cardiac Arrest Guidelines.",
+      "Pull all extremities out to anatomical length/position."
+    ],
+    "pl2": [
+      "4-lead ECG placement",
+      "EtCO"
+    ],
+    "pl3": [
+      "Vascular access above the diaphragm if patient ≥ 12 months with Isotonic Crystalloid bolus until ROSC or up to 1 liter. If patient < 12 months, distal femur IO acceptable"
+    ],
+    "pl4": [
+      "Needle Decompression",
+      "Tranexamic Acid (TXA)",
+      "Simple Thoracostomies",
+      "Ultrasound: EFAST and/or Cardiac Motion",
+      "Administer Blood Products and Calcium Chloride if:",
+      "Witnessed traumatic arrest within 5 minutes of blood product availability AND",
+      "Exsanguination is a likely cause of arrest, reasonable bleeding control has been achieved, and provider judgment that one unit of blood products will significantly improve patient outcome"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

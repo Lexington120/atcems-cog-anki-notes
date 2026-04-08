@@ -1,0 +1,44 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Cold, clammy",
+      "Shivering",
+      "Mental status changes",
+      "Extremity pain or sensory abnormality",
+      "Bradycardia",
+      "Hypotension or shock",
+      "Metabolic disorder (hypoglycemia, hypothyroidism)",
+      "Toxins",
+      "Environmental exposure",
+      "Shock",
+      "Sepsis"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen: target SpO :"
+    ],
+    "pl2": [
+      "92-94%",
+      "Prevent further heat loss: Remove wet clothing, move to a warm environment, blankets & heat packs as needed, allow active movement after 20min if >89.6 ◦ F(32 ◦ C)",
+      "Obtain core temperature, if able:",
+      "Handle very gently if <88 ◦ F(<30 ◦ C) due to risk of arrythmias",
+      "BGL assessment",
+      "In cardiac arrest with temperature <88 ◦ F(<30 ◦ C), limit defibrillations to one shock &",
+      "ne Epinephrine until core temp greater than 88 ◦ F (>30 ◦ C) and continue CPR",
+      "Consider early transport for active rewarming"
+    ],
+    "pl3": [
+      "Increase the temperature of transport compartment",
+      "Vascular access",
+      "Warm IV Isotonic Crystalloid if available – Use of blood warmer if available"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

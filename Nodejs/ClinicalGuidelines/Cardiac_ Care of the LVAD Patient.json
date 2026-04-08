@@ -1,0 +1,51 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Pediatric pads should be used in children < 10 Kg or PEDIA tape color purple.",
+      "Altered Mental Status",
+      "Confusion",
+      "Weakness, dizziness",
+      "Absent Pulse",
+      "Pale, cool, clammy skin",
+      "Delayed capillary refill",
+      "Indeterminable blood pressure",
+      "Low ETCO2 readings",
+      "Hypotension",
+      "Hypovolemia",
+      "Sepsis",
+      "Neurogenic Shock",
+      "Anaphylaxis",
+      "Dysrhythmia",
+      "Device malfunction / Failure"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Contact patient’s LVAD coordinator as early as possible",
+      "Perform general patient assessment",
+      "Oxygen PRN titrated to SpO 92% - 96%",
+      "Basic airway management",
+      "Ensure LVAD has power supply",
+      "If LVAD failure is noted and no signs of life, begin CPR procedure . Refer to appropriate COG – Defibrillator can be used as normal, shift pads to not place directly on device.",
+      "4 lead and 12 lead ECG placement and acquisition, EtCO Monitoring",
+      "Assess LVAD for function – Refer to algorithm",
+      "Assess patient for non-LVAD related illness"
+    ],
+    "pl2": [
+      "Waveform EtCO"
+    ],
+    "pl3": [
+      "Vascular access",
+      "If a FLOW ALARM is noted, 20mL/kg Isotonic Crystalloid fluid challenge."
+    ],
+    "pl4": [
+      "Monitor and interpret ECG",
+      "If FLOW ALARM still active after fluid bolus – Norepinephrine (Levophed)"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

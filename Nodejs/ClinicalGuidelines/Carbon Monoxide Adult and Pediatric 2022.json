@@ -1,0 +1,44 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Altered mental status/dizziness",
+      "Headache, Nausea/Vomiting",
+      "Chest pain/Respiratory distress",
+      "Neurological impairments",
+      "Vision problems/Reddened eyes",
+      "Tachycardia/Tachypnea",
+      "Arrhythmias, seizures, coma",
+      "Effects of other toxic fire byproduct (ie. Cyanide)",
+      "Acute cardiac event",
+      "Acute neurological event",
+      "Flu/GI illness",
+      "Acute intoxication",
+      "Diabetic Ketoacidosis",
+      "Headache of non-toxic origin"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Measure COHb% (SpCO), if equipment is available with covered or shielded probe",
+      "SpCO > 25% with or without red flag symptoms: Utilize COGs as indicated, provide airway/ventilation management with 100% supplemental oxygen, and transport to an appropriate facility.",
+      "Red flag symptoms include: Pregnancy*; any cardiac or pulmonary complaint; Neurological changes such as altered mental status, seizure activity, or focal deficits. A headache alone is not considered a neurological change or red flag symptom.",
+      "SpCO 16 – 24% with symptoms but no red flag symptoms: Remove the patient from the source and treat with 100% supplemental oxygen until symptoms improve or SpCO decreases to < 15% then transport or patient refusal as appropriate.",
+      "SpCO < 15% and asymptomatic: No treatment is required.",
+      "Any patient presenting with a red flag symptom, regardless of SpCO, is to receive airway/ventilation management with 100% supplemental oxygen, and transport to an appropriate facility.",
+      "Continuous ETCO and ECG monitoring",
+      "Acquire 12 lead ECG",
+      "Vascular access as appropriate for patient condition",
+      "IV fluid with isotonic crystalloid as needed"
+    ],
+    "pl2": [
+      "Fire victims with AMS, lethargy, or cardiac arrest, consider Cyanide Guideline"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

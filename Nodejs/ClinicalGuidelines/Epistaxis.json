@@ -1,0 +1,37 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Bleeding from nasal passage",
+      "Pain",
+      "Nausea",
+      "Vomiting",
+      "Trauma",
+      "Infection – Viral URI or Sinusitis",
+      "Allergic rhinitis",
+      "Lesions – Polyps, Ulcers",
+      "Hypertension"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Ice packs",
+      "Compress bridge or base of the nose",
+      "Tilt head forward"
+    ],
+    "pl2": [
+      "Topical or IN Tranexamic acid (TXA)",
+      "Vascular access",
+      "Tranexamic acid (TXA)",
+      "Adult: Consider Isotonic Crystalloid bolus titrated to MAP > 65 mmHg for adults",
+      "Pediatric: Consider Isotonic Crystalloid bolus titrated to SBP > 70 + (age in years x 2) mmHg"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

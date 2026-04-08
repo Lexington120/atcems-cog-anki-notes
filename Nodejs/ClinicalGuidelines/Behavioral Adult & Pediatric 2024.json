@@ -1,0 +1,52 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy",
+      "Anxiety, agitation, confusion",
+      "Affect change, hallucinations",
+      "Delusional thoughts, bizarre behavior",
+      "Expression of suicidal homicidal thoughts",
+      "Tachycardia, diaphoresis, tachypnea",
+      "Combative / violent",
+      "Refer to Altered Mental Status",
+      "Alcohol intoxication",
+      "Bipolar (manic-depressive)",
+      "Schizophrenia, anxiety disorders, etc.",
+      "Hypertensive emergency",
+      "Seizure / Postictal",
+      "Domestic Violence or Abuse"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen, target SpO 92 – 96%",
+      "BGL Assessment",
+      "Temperature assessment",
+      "Verbal de-escalation",
+      "Basic Airway Management as needed",
+      "Physical restraint, if needed and use sedation checklist",
+      "Cooling measures, if needed",
+      "Patient seated or head elevated 30°"
+    ],
+    "pl2": [
+      "If sedated, place continuous cardiac, ETCO2, and SpO2 monitoring",
+      "Vascular access as appropriate for patient condition",
+      "Fluid therapy as needed with isotonic crystalloid"
+    ],
+    "pl3": [
+      "12 ECG",
+      "RASS +4 Hyperactive Delirium with Severe Agitation COG",
+      "RASS +2 or +3 (aggressive behaviors requiring sedation) Midazolam or Droperidol",
+      "RASS +1 or +2 (uncontrolled anxiety) Midazolam",
+      "Advanced Airway Management as needed"
+    ],
+    "pl4": [
+      "INTEGRATED SERVICES",
+      "RASS +1 or +2, uncontrolled anxiety, agitation, acute schizophrenia, or bipolar disorder crisis, Olanzapine and connect to mental health resources within 24 hours"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

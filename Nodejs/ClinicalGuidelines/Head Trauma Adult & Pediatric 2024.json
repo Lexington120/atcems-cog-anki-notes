@@ -1,0 +1,60 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Fluids and Medication titrated to maintain a SBP >70 + (age in years x 2) mmHg",
+      "Hypotension: (SBP < 70+ 2x Age in years)",
+      "Altered Mental Status",
+      "Acute GCS change",
+      "Neuro-deficits",
+      "Unequal pupils",
+      "Vision changes",
+      "Unilateral weakness",
+      "Nausea/Vomiting",
+      "External head trauma",
+      "Seizures",
+      "Posturing",
+      "Headache",
+      "Respiratory failure",
+      "Hypovolemia",
+      "Trauma",
+      "Hypothermia",
+      "Toxins or Overdose",
+      "Hypoglycemia",
+      "Acidosis",
+      "Syncope"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Control external hemorrhage",
+      "Evaluate for spinal motion restriction – Do not transport laying on long spine board",
+      "Assess GCS score",
+      "Elevate patient’s head 30⁰",
+      "Administer oxygen to targeted SpO ≥ 92%",
+      "Airway management & ventilation COG",
+      "Declare Trauma Alert / Activation"
+    ],
+    "pl2": [
+      "ETCO assessment",
+      "Acetaminophen (all routes) (IV only if SBP ≥ 110)",
+      "Vascular access",
+      "Adult: Isotonic Crystalloid IV bolus titrated to SBP ≥ 110; Pediatric 20 mL/kg as needed",
+      "Tranexamic Acid (TXA) if considering hemorrhage"
+    ],
+    "pl3": [
+      "Advanced airway management",
+      "Pain management – Fentanyl and/or Ketamine as indicated.",
+      "Push-dose Epinephrine",
+      "Blood Product Transfusion and Calcium Chloride to SBP ≥ 110 if hypotension due to hemorrhage",
+      "Norepinephrine to SBP ≥ 110 if no external hemorrhage or hemorrhage controlled"
+    ],
+    "pl4": [
+      "RSI Procedure"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

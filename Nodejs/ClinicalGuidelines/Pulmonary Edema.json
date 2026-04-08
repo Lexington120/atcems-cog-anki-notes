@@ -1,0 +1,58 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Bilateral rales",
+      "Jugular vein distention",
+      "Pinky, frothy sputum",
+      "Peripheral edema",
+      "Diaphoresis",
+      "Hypoperfusion",
+      "Hypotension",
+      "Chest pain",
+      "Respiratory distress",
+      "Apprehension",
+      "Orthopnea",
+      "Myocardial infarction",
+      "Congestive heart failure",
+      "Pulmonary embolus",
+      "Pericardial tamponade",
+      "Pleural effusion",
+      "Pneumonia",
+      "Asthma",
+      "Anaphylaxis",
+      "Aspiration",
+      "COPD",
+      "Toxic exposure"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen",
+      "Position of comfort",
+      "BLS airway management",
+      "Aspirin if suspected ACS Chest Pain",
+      "Consider CPAP with PEEP with rales/rhonchi indicating wet lung sounds",
+      "Nitroglycerin q 5 minutes if SBP > 100mmHg",
+      "Nitroglycerin topical paste to chest wall if SBP > 100mmHg",
+      "4 lead and 12 lead ECG placement and acquisition",
+      "Place EtCO"
+    ],
+    "pl2": [
+      "Vascular access"
+    ],
+    "pl3": [
+      "Monitoring and interpretation of ECG, waveform EtCO"
+    ],
+    "pl4": [
+      "Norepinephrine (Levophed) infusion, titrated to MAP > 65"
+    ],
+    "pl5": [
+      "Rapid sequence induction as needed to secure patent airway for oxygenation and ventilation."
+    ],
+    "pl6": []
+  }
+}

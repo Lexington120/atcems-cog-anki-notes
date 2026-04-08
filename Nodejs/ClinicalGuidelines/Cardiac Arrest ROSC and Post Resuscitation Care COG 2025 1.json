@@ -1,0 +1,39 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Focus on rapid and early BLS airway and ventilation tools. Intubation may not be the best",
+      "ption for these patients.",
+      "Return of pulse from a Non- Traumatic Cardiac Arrest",
+      "Continue to address specific",
+      "riginal dysrhythmia."
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Continue Oxygenation, target SpO 92% - 96%",
+      "Use Post Resuscitation Checklist as indicated",
+      "As time allows, expose patient and apply ice packs to axilla, neck, and groin",
+      "Vascular access IO can be placed first, but IV access is preferred when able to",
+      "btain. If patient ≤ 12 months, distal femur IO is preferred",
+      "Fluid bolus with isotonic crystalloid as needed (max 1000mL unless suspect hypovolemia)",
+      "Vasopressor infusion titrated to MAP = 80 mmHg",
+      "Norepinephrine preferred in adult patients",
+      "Epinephrine preferred in pediatric patients",
+      "Advanced Airway Management as needed",
+      "Monitor and interpret ECG",
+      "Resuscitation Alert if not already done so",
+      "STEMI activation if appropriate and transmit 12-lead",
+      "Midazolam or Ketamine for sedation as needed",
+      "Rocuronium only after advanced airway placement",
+      "Target normothermia (temperature < 38°C)"
+    ],
+    "pl2": [],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Pediatric hypotension is defined as: SBP < 70 + (age in years x 2) mmHg",
+      "Burns, pain, swelling",
+      "Dizziness",
+      "Loss of consciousness",
+      "Hypotension / shock",
+      "Airway compromise / distress, singed facial or nasal hair, hoarseness / wheezing / stridor",
+      "Superficial 1° – red and painful",
+      "Partial thickness 2° - blistering Full thickness 3° - painless and charred or leathery skin",
+      "Chemical",
+      "Thermal",
+      "Electrical",
+      "Radiation"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen, target SpO 92 – 96%",
+      "Basic Airway Management as needed",
+      "Remove rings, bracelets, or other constricting items",
+      "If thermal burn: < 10% body surface area then cool down the wound with isotonic crystalloid o r sterile water",
+      "If thermal burn: After cooling cover the burn with a dry sheet or dressings",
+      "If chemical burn: Remove clothing or expose area, brush off any dry chemicals or powder, then flush area with large amount of water or isotonic crystalloid",
+      "If electrical – Electrocution COG"
+    ],
+    "pl2": [
+      "Establish BSA, location(s), and type of burn"
+    ],
+    "pl3": [
+      "If airway burn: Nebulized Epinephrine for Respiratory Distress",
+      "Vascular access as appropriate for patient condition",
+      "2 nd",
+      "r 3 degree burn area > 10% BSA then:",
+      "Adult: Isotonic Crystalloid per Rule of 10s formula (Warmed, if readily accessible)",
+      "C hildren > 14 years old: 2 mL LR x Kg x %TBSA with ½ infused in first 8 hours",
+      "Children < 13 years old: 3 mL LR x Kg x % TBSA with ½ infused in first 8 hours",
+      "See Page 3 & 4 of this COG for infusion references",
+      "If cyanide toxicity – refer to Cyanide COG"
+    ],
+    "pl4": [
+      "Pain Management Guideline"
+    ],
+    "pl5": [
+      "Continuous ETCO and ECG monitoring",
+      "Calcium Chloride for hydrofluoric acid burns with unstable vital signs, such as hypotension, tachy/bradycardia, ectopic beats, and/or ECG changes",
+      "Advanced Airway Management as needed"
+    ],
+    "pl6": []
+  }
+}

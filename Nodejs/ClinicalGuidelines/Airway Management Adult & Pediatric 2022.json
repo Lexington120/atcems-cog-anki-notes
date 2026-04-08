@@ -1,0 +1,67 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Avoid intubation of the pediatric patient when possible. OPA/NPA is preferred.",
+      "Children compensate well initially but decompensate quickly with little warning.",
+      "Most pediatric cardiac arrests are due to respiratory compromise."
+    ],
+    "signsAndSymptoms": [
+      "Percentage of Glottic Opening",
+      "Neck mobility",
+      "Beard, may prevent mask seal",
+      "Facial trauma/instability",
+      "Foreign material in airway",
+      "Swelling/Edema",
+      "Respiratory effort",
+      "Thyromental distance"
+    ],
+    "differential": [
+      "Airway obstruction",
+      "Pulmonary edema",
+      "COPD/Asthma",
+      "Stroke",
+      "Drug overdose",
+      "Cardiac arrest",
+      "Head injury",
+      "Anaphylaxis"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "BLS Foreign Body Airway Obstruction evaluation / removal",
+      "Place NPA and/or OPA and ventilate with BVM",
+      "Oxygen, including passive apneic oxygenation 25 lpm with NC",
+      "SpO monitor",
+      "BIAD",
+      "ETCO monitor",
+      "12-lead ECG placement and acquisition"
+    ],
+    "pl2": [
+      "IV / IO access as appropriate for patient condition"
+    ],
+    "pl3": [
+      "Direct laryngoscopy Foreign Body Airway Obstruction evaluation / removal.",
+      "Evaluate ECG",
+      "Gastric tube as needed",
+      "All advanced airway procedures will include passive apneic oxygenation when possible",
+      "Continuous ETCO is mandatory for all intubations",
+      "Push dose Epinephrine or Norepinephrine prior to intubation",
+      "Video laryngoscopy for intubation (King Vision)",
+      "Direct laryngoscopy intubation with Gum Bougie",
+      "Nasotracheal intubation",
+      "Post intubation medications:",
+      "Ketamine",
+      "Midazolam",
+      "Rocuronium",
+      "Surgical cricothyroidotomy if patient > 10 years of age",
+      "Needle cricothyroidotomy for pediatric patients"
+    ],
+    "pl4": [
+      "Rocuronium for Rapid Sequence Induction",
+      "Use Airway Management Checklist for all Rapid Sequence Inductions"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

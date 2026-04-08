@@ -1,0 +1,57 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Trigger for sepsis guideline:",
+      "Known or suspected infection -and-",
+      "EtCO 2 < 30 or > 45",
+      "AND 2 or more of the following:",
+      "Temp < 96.8 F or > 100.4 F",
+      "Heart rate > 95",
+      "SBP < 100",
+      "Respiratory rate > 20",
+      "Altered Mental Status",
+      "Arrhythmia",
+      "Pulmonary embolism",
+      "Anaphylaxis",
+      "Drug intoxication"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Heat stroke",
+      "Hypothermia",
+      "Hypoglycemia",
+      "Dehydration",
+      "Stroke"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen",
+      "BGL assessment",
+      "Keep patient warm",
+      "Treat wheezing, hypoxia, dyspnea, and pain as appropriate per COGs",
+      "4 and 12 lead ECG",
+      "EtCO"
+    ],
+    "pl2": [
+      "Adult - Acetaminophen"
+    ],
+    "pl3": [
+      "Pediatric - Acetaminophen",
+      "Vascular access",
+      "Isotonic Crystalloid fluid challenge:",
+      "Adult: 30 ml/kg",
+      "Pediatric: 20 ml/kg",
+      "Newborn: 10 ml/kg"
+    ],
+    "pl4": [
+      "ECG interpretation",
+      "Norepinephrine infusion, titrate to MAP > 65 if not responsive to IV fluid",
+      "See Hypotension COG"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

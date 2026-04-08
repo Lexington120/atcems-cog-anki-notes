@@ -1,0 +1,62 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Shortness of breath",
+      "Pursed lip breathing",
+      "Decreased ability to speak",
+      "Increased respiratory rate and effort",
+      "Wheezing, rhonchi, rales, stridor",
+      "Use of accessory muscles",
+      "Fever, cough",
+      "Tachycardia",
+      "Anxious appearance",
+      "Asthma / COPD (Emphysema, Bronchitis)",
+      "Anaphylaxis",
+      "Aspiration",
+      "Pleural effusion",
+      "Pneumonia",
+      "Pulmonary embolus",
+      "Pneumothorax",
+      "Cardiac (MI or CHF)",
+      "Pericardial tamponade",
+      "Hyperventilation",
+      "Inhaled toxin (CO, etc.)",
+      "Croup / Epiglottitis",
+      "Congenital heart disease",
+      "Trauma",
+      "Hydrocarbon ingestion"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen",
+      "Position of comfort",
+      "BLS airway management",
+      "If wheezing (non-cardiac), then assist with patient’s MDI 2 puffs PRN -or- Albuterol with Ipratropium",
+      "If wheezing, Consider CPAP with PEEP if refractory to NEB",
+      "If stridor, 3 ml nebulized Isotonic Crystalloid",
+      "If Wheezing or Stridor, nebulized Epinephrine"
+    ],
+    "pl2": [
+      "Vascular access",
+      "Monitoring and interpretation of ECG & EtCO"
+    ],
+    "pl3": [
+      "If wheezing or Stridor, Dexamethasone",
+      "Epinephrine",
+      "If wheezing, Magnesium Sulfate",
+      "Advance airway management as needed",
+      "If severe bronchospasm refractory to other medications, Ketamine",
+      "Ultrasound pleural cavity if pneumo/hemothorax is suspected"
+    ],
+    "pl4": [
+      "Rapid sequence induction as needed to secure patent airway for oxygenation and ventilation."
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

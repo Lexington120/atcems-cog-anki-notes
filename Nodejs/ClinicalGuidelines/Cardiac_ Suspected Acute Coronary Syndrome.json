@@ -1,0 +1,54 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Focus on rapid and early BLS airway and ventilation tools. Intubation may not be the best",
+      "ption for these patients.",
+      "Pain or pressure between navel and jaw",
+      "“Heart racing”, “palpitations”,",
+      "r “heart too slow”",
+      "CHF signs of symptoms",
+      "Syncope",
+      "Severe weakness if > 45 years",
+      "ld",
+      "Difficulty breathing (no",
+      "bvious respiratory cause)",
+      "Angina vs Myocardial infarction",
+      "Pericarditis",
+      "Pulmonary embolism",
+      "Asthma / COPD",
+      "Pneumothorax",
+      "Aortic dissection",
+      "GI reflux / Hiatal hernia / PUD",
+      "Esophageal spasm",
+      "Chest wall injury or pain",
+      "Pleuritic pain",
+      "Overdose (sympathomimetic)"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen PRN titrated to SpO 92%-96%",
+      "Perform bilateral blood pressures, if difference between R & L arm SBP is > 20mmHg then consider aortic dissection and withhold Aspirin and Nitro",
+      "Aspirin",
+      "Basic airway management",
+      "4 lead and 12 lead ECG placement and acquisition",
+      "Nitroglycerin if SBP > 180 mmHg and/or DBP ≥ 110mmHg AFTER Fentanyl administration",
+      "Vascular access",
+      "Isotonic Crystalloid PRN titrated to SBP > 100 mmHg or MAP > 65"
+    ],
+    "pl2": [
+      "Monitor and interpret ECG within 5 minutes of patient contact",
+      "Declaration of “STEMI Alert” and minimize scene time to < 15 minutes if possible",
+      "Fluid therapy for Inferior Wall MI: Isotonic Crystalloid",
+      "Pain management: Fentanyl",
+      "If Hypersympathetic state from stimulant abuse: Midazolam (usually presents with sustained HR > 120 bpm and HTN)"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Weakness",
+      "Nausea & vomiting",
+      "Cramping",
+      "Syncope",
+      "Diaphoresis & anhidrosis",
+      "Altered Mental Status",
+      "Bizarre behavior",
+      "Hypotension",
+      "Tachycardia",
+      "CVA",
+      "Dehydration",
+      "Encephalopathy",
+      "Meningitis / Sepsis",
+      "Head Trauma",
+      "Overdose / Toxin",
+      "Hypoglycemia",
+      "Hyperactive De lirium with Severe Agitation",
+      "Alcohol withdrawal"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Age appropriate core body temperature assessment",
+      "Oxygen",
+      "Move to shaded/cool environment, discontinue physical activity, PO fluids if tolerated",
+      "If AMS, then BGL assessment",
+      "If AMS and/or body temperature > 102.2 F, then active cooling measures per patient condition:",
+      "Ice packs to neck, axilla and groin, wet patient, ice sheets in tactical or rescue environment, and increased airflow",
+      "If body temperature > 105.8 F, t hen cold water immersion as soon as possible",
+      "Immerse patient 1min/degree Fahrenheit you are attempting to cool, discontinue immersion at 102.2F and move to active cooling",
+      "Vascular access",
+      "Infuse Isotonic Crystalloid fluids titrated to effect"
+    ],
+    "pl2": [
+      "If AMS, may infuse cold Isotonic Crystalloid if available up to 30 mL/kg or max of 2L",
+      "If shivering develops, Midazolam for sedation"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

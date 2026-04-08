@@ -1,0 +1,46 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Focus on rapid and early BLS airway and ventilation tools. Intubation may not be the best",
+      "ption for these patients.",
+      "Pediatric pads should be used in children < 10 Kg or PEDIA tape color purple.",
+      "Unresponsive",
+      "Abnormal breathing (gasps)",
+      "Pulseless",
+      "Absent heart sounds",
+      "Obvious death",
+      "Continue to address specific signs, symptoms, and/or dysrhythmia."
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Hypoxia: Airway Management and Oxygenation",
+      "Hypothermia: Active warming strategies",
+      "Hypovolemia: Fluid bolus with Isotonic Solution as needed",
+      "Hypoglycemia: Dextrose infusion",
+      "Calcium Channel / Beta Blocker Overdose: Glucagon"
+    ],
+    "pl2": [
+      "Hyperkalemia",
+      "Adult – Calcium Chloride, Sodium Bicarbonate",
+      "Pediatric – Sodium Bicarbonate",
+      "Calcium Channel / Beta Blocker Overdose",
+      "Adult – Calcium Chloride",
+      "Hypovolemia: Blood Product and Calcium Chloride if:",
+      "Witnessed arrest within 5 minutes of blood product availability AND",
+      "Exsanguination is a likely cause of arrest, reasonable bleeding control has been achieved and/or provider judgment that one unit of blood products will significantly improve patient outcome",
+      "Calcium Channel / Beta Blocker Overdose",
+      "Pediatric – Epinephrine infusion",
+      "Tension Pneumothorax:",
+      "Needle Decompression",
+      "Simple Thoracostomy"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

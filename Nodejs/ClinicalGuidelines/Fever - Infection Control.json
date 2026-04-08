@@ -1,0 +1,49 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Warm",
+      "Flushed",
+      "Diaphoretic / Sweaty",
+      "Chills / Rigors Associated Symptoms to Help Localize:",
+      "Myalgia, cough, chest pain, headache, dysuria, abdominal pain, altered mental status, rash, vomiting, diarrhea",
+      "Infections / Sepsis",
+      "Cancer / Tumors / Lymphomas",
+      "Medication or drug reaction",
+      "Connective tissue disease(s):",
+      "Arthritis",
+      "Vasculitis",
+      "Hyperthyroid"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Heatstroke",
+      "Meningitis"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Age-appropriate core body temperature assessment",
+      "Oxygen",
+      "Cooling measures and/or unbundle",
+      "Oral rehydration, if patient can tolerate",
+      "If an EMS provider is exposed – contact DICO",
+      "If fever > 100.4 F without an environmental cause:",
+      "Adult – Acetaminophen",
+      "Adult – Ibuprofen",
+      "If DICO requests and patient refusing transport – source patient blood draw procedure",
+      "If fever > 100.4 F without an environmental cause:",
+      "Pediatric – Acetaminophen",
+      "If fever > 100.4 F without an environmental cause:",
+      "Pediatric – Acetaminophen",
+      "Vascular access",
+      "If dehydrated and not able to hold PO fluids: Isotonic Crystalloid titrated to effect"
+    ],
+    "pl2": [],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA tape.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Unresponsive",
+      "Mental status changes",
+      "Decreased or absent vital signs",
+      "Vomiting",
+      "Coughing",
+      "Trauma",
+      "Pre-existing medical problem",
+      "Pressure injury (diving)",
+      "Barotrauma",
+      "Decompression sickness",
+      "Duration of immersion",
+      "Temperature of water"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Scene safety & decontaminate patient as needed",
+      "Evaluate need for spinal motion restriction",
+      "Oxygen, Target SpO :"
+    ],
+    "pl2": [
+      "92-94%",
+      "BLS airway management as needed, consider PEEP (5-10mmHg)",
+      "Suction",
+      "Keep patient warm",
+      "If water temperature <10 ◦ C/<50 ◦ F, Hypothermia COG",
+      "If conscious and with wheezing, Albuterol & Ipratropium Bromide nebulizer",
+      "If respiratory distress, CPAP",
+      "ECG placement"
+    ],
+    "pl3": [
+      "Vascular access"
+    ],
+    "pl4": [
+      "Evaluate ECG",
+      "Advance airway maneuvers and management as needed"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Past medical history",
+      "Hypertension meds",
+      "Due date or LMP",
+      "If known high risk pregnancy",
+      "Prenatal care",
+      "Prior pregnancies / births",
+      "Gravida / Para",
+      "Vaginal bleeding",
+      "Abdominal pain",
+      "Seizures",
+      "Hypertension",
+      "Severe headache",
+      "Visual changes",
+      "Edema of the hands and face",
+      "Pre-eclampsia / Eclampsia",
+      "Placenta previa",
+      "Placenta abruptio",
+      "Spontaneous abortion"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen, target SpO to 92-96%",
+      "Vascular access with Isotonic Crystalloid titrated to effect for vaginal hemorrhage",
+      "Tranexamic Acid for hypotension due to significant hemorrhage"
+    ],
+    "pl2": [
+      "Seizure: Midazolam",
+      "Suspected Eclampsia: Magnesium Sulfate",
+      "Monitoring & Interpretation of ECG and EtCO"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Fluids and Medication titrated to maintain a SBP >70 + (age in years x 2) mmHg",
+      "Hypotension: (SBP < 70+ 2x Age in years)",
+      "Burns, pain, swelling",
+      "Cardiac arrythmias",
+      "Cardiac Arrest",
+      "Loss of consciousness",
+      "Chest Pain",
+      "Respiratory distress",
+      "Altered mental status",
+      "Thermal burns",
+      "Arrythmia",
+      "Chemical burns",
+      "Ocular injury",
+      "Respiratory arrest",
+      "Seizures",
+      "Syncope",
+      "Status epilepticus",
+      "Cardiac Arrest"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "CPR Procedure",
+      "Evaluate for entry and exit wounds",
+      "Elevate head of bed 30⁰",
+      "Declare Trauma Alert / Activation if appropriate for patient condition",
+      "Burn Clinical Guideline",
+      "4 lead and 12 lead ECG placement and acquisition",
+      "ETCO assessment",
+      "If airway burn: Nebulized Epinephrine for Respiratory Distress",
+      "Pain Management Guideline",
+      "Vascular access",
+      "Fluid resuscitation as indicated"
+    ],
+    "pl2": [
+      "Synchronized Cardioversion Procedure",
+      "Defibrillation",
+      "Advanced airway management",
+      "Continuous ECG monitoring"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Fever",
+      "Pain",
+      "Constipation",
+      "Diarrhea",
+      "Anorexia",
+      "Hematemesis",
+      "CNS (Increased ICP,"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "headache, stroke, CNS lesions, Trauma or hemorrhage)",
+      "Vestibular",
+      "AMI",
+      "Drugs (NSAIDS, antibiotics, narcotics, chemotherapy)",
+      "GI or GU disorders",
+      "Uremia",
+      "Gynecologic disease (Ovarian Cyst / PID)",
+      "Infections (pneumonia, influenza)",
+      "Electrolyte abnormalities",
+      "Food or Toxin induced",
+      "Pregnancy"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen",
+      "BGL assessment",
+      "Inhaled isopropyl alcohol wipe to help control nausea",
+      "Adult & Pediatric: Ondansetron",
+      "Vascular access",
+      "Adult: Diphenhydramine if patient allergic to Ondansetron and Droperidol",
+      "IV fluid with Isotonic Crystalloid as needed for dehydration",
+      "Adult: Tranexamic acid (TXA) with confirmed upper or lower GI bleeding AND hypotension if < 3 hours since bleeding onset"
+    ],
+    "pl2": [
+      "ECG monitoring and interpretation",
+      "Adult: Droperidol"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

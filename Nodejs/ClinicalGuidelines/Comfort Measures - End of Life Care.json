@@ -1,0 +1,34 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Position parents/caregivers in close proximity to the patient",
+      "Allow parents/caregivers to comfort patient and guide medically-appropriate care",
+      "Apnea/Agonal breathing",
+      "Hypotension",
+      "AMS",
+      "Bradycardia",
+      "If there is any doubt about possible reversible causes, implement resuscitative measures and consult OLMC"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Environment modification (dim lights, silence sirens/alarms)",
+      "Discontinue continuous monitoring (SpO2, cardiac monitor) if patient/family desires",
+      "Prioritize family and loved ones at bedside and allow them to play music or provide any other environmental comforts",
+      "Ice chips and/or sips of water if desired and able to tolerate secretions",
+      "Oxygen if desired or showing signs of air hunger"
+    ],
+    "pl2": [
+      "Establish vascular access only if patient/family prefer IV administration vs IM/IN",
+      "Fentanyl for pain and air hunger (1 st line)",
+      "Midazolam for air hunger or anxiety",
+      "Droperidol for nausea/vomiting (1 st line)"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

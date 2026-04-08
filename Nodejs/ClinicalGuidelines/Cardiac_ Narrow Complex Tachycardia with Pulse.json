@@ -1,0 +1,60 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy",
+      "Focus on rapid and early BLS airway and ventilation tools. Intubation may not be the best",
+      "ption for these patients.",
+      "Pediatric pads should be used in children < 10 Kg or HandTevy color purple.",
+      "QRS < 0.12 sec",
+      "Pale or Cyanosis",
+      "Diaphoresis",
+      "Tachypnea",
+      "Vomiting",
+      "Hypotension",
+      "Altered Level of Consciousness",
+      "Pulmonary Congestion",
+      "Syncope",
+      "Heart disease (WPW, Valvular)",
+      "Sick sinus syndrome",
+      "Myocardial infarction",
+      "Electrolyte imbalance",
+      "Exertion, pain, emotional stress",
+      "Fever",
+      "Hypoxia or Anemia",
+      "Hypovolemia",
+      "Drug effect / Overdose",
+      "Hyperthyroidism",
+      "Pulmonary embolus",
+      "Alcohol withdrawal"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen PRN titrated to SpO 92%-96%",
+      "Basic airway management",
+      "4 lead and 12 lead ECG placement and acquisition",
+      "Apply EtCO"
+    ],
+    "pl2": [
+      "Vascular access",
+      "Isotonic Crystalloid PRN titrated to SBP > 90 mmHg or MAP > 65"
+    ],
+    "pl3": [
+      "Monitor and interpret of ECG",
+      "Valsalva Maneuver",
+      "Adenosine x2 doses as needed",
+      "Continuous 12-lead ECG during Adenosine administration, if possible",
+      "Diltiazem (Adults only) – DO NOT admin if Hx or 12 lead presentation of WPW",
+      "If there is a clinical concern with Diltiazem, Amiodarone is the alternative.",
+      "Sedation: Midazolam or Ketamine as appropriate",
+      "Adult Synchronized Cardioversion at maximum joules",
+      "Pediatric Synchronized Cardioversion 0.5 to 1.0 j/kg, repeat as needed at 2 j/kg",
+      "12 lead ECG post-conversion"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Salivation",
+      "Lacrimation",
+      "Urination",
+      "Defecation",
+      "GI distress",
+      "Emesis",
+      "Bronchospasm",
+      "Excessive airway secretions",
+      "Bradycardia",
+      "Seizure",
+      "Pinpoint pupils",
+      "Respiratory failure",
+      "Altered mentation"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Stroke",
+      "MI",
+      "Asthma / COPD",
+      "Other chemical agent / weapon",
+      "Biologic agent / weapon",
+      "Overdose",
+      "Food borne illness",
+      "Airborne irritant (hydrogen sulfide, chlorine, etc.)"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Scene safety, PPE",
+      "Decontamination as trained and equipped",
+      "Oxygen",
+      "Pralidoxime Auto-Injector as available - Adults",
+      "Atropine Auto-injector as available",
+      "Child <40lbs (0-4yrs) – 0.5mg",
+      "Child 41-90 lbs (5-10yrs) – 1mg",
+      "> 90lbs (11yrs+) – 2mg",
+      "If Hypersalivation: Ipratropium Bromide",
+      "CPAP"
+    ],
+    "pl2": [
+      "Vascular access"
+    ],
+    "pl3": [
+      "Atropine q 5min titrated manage secretions; no max dose in this setting.",
+      "Pralidoxime as available",
+      "Adults – 600mg IM (one auto-injector)",
+      "Pediatric – 15mg/kg IM (see dosing chart below)",
+      "If Seizures – refer to Seizure COG",
+      "≥15kg - Midazolam or 10mg Diazepam auto-injector as available",
+      "<15kg - Midazolam"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

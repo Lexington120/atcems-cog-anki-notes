@@ -1,0 +1,60 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Fluids and medications titrated to maintain SBP > 70 + (age x 2) mmHg",
+      "Edema / Voice Changes",
+      "Itching or Hives",
+      "Coughing / Wheezing or Respiratory Distress",
+      "Chest or Throat Constriction / Tightness",
+      "Difficulty Swallowing",
+      "Hypotension or Shock",
+      "Vomiting / Diarrhea",
+      "Urticaria (rash only)",
+      "Anaphylaxis (systemic effect)",
+      "Shock (vascular effect)",
+      "Angioedema (drug induced)"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Aspiration / Airway Obstruction",
+      "Vasovagal event",
+      "CHF",
+      "Asthma or COPD",
+      "Anxiety"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Assist with Patient’s Epinephrine delivery device for severe respiratory distress and/or anaphylaxis.",
+      "If the patient does not have Epinephrine, then Epinephrine",
+      "Oxygen, target SpO 92 – 96%",
+      "Cold pack to insect bite or sting site and remove bee stinger if present",
+      "Basic airway management as needed",
+      "Albuterol",
+      "Diphenhydramine – Adult PO only",
+      "CPAP, if refractory to albuterol",
+      "Monitor ETCO"
+    ],
+    "pl2": [
+      "IV / IO access as appropriate for patient condition",
+      "IV fluid therapy with isotonic crystalloid, titrated to Adult SBP > 90 mmHg or MAP >65 mmHg",
+      "Diphenhydramine",
+      "Dystonic Reaction: Diphenhydramine"
+    ],
+    "pl3": [
+      "Epinephrine, up to 3 additional doses",
+      "Dexamethasone",
+      "Assess ECG",
+      "Push dose Epinephrine for hypotension",
+      "Epinephrine infusion until the patient stabilizes",
+      "Advanced Airway Management as needed"
+    ],
+    "pl4": [
+      "Rocuronium for Rapid Sequence Induction",
+      "Use Airway Management Checklist for all Rapid Sequence Inductions"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

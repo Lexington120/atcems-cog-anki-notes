@@ -1,0 +1,49 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Compartment Syndrome",
+      "Pain on passive stretch",
+      "Paresthesia",
+      "Paralysis",
+      "Pallor",
+      "Pulselessness",
+      "Hypoperfusion",
+      "Hypotension",
+      "Altered Mental Status",
+      "Skin irritant exposure",
+      "Dust concentrations in airway",
+      "Hypo/Hyperthermia",
+      "Hyperkalemia",
+      "Dehydration",
+      "Additional trauma"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Treatment in a confined space should be performed only by appropriately trained personnel.",
+      "Air quality monitoring should be conducted and documented prior to entry into confined space. Continuous air quality monitoring must be maintained once contact is made with victim and when any rescuer is in a confined space. Document air quality measurement at patient location on PCR.",
+      "Remove rings, bracelets, and other constricting items",
+      "N95 mask PRN for dust environment",
+      "Oxygen: Target SPO2 92% - 96%"
+    ],
+    "pl2": [
+      "Nebulized Albuterol or saline PRN for patients with dust concentrations in airway.",
+      "Vascular access x2 at 1.5 L/hr of Isotonic Crystalloid during extrication. If adequate hemodynamics, then may reduce to 500 mL/hr of Isotonic Crystalloid after extrication."
+    ],
+    "pl3": [
+      "Continuous ETCO and ECG monitoring once practical.",
+      "If goes into cardiac arrest, then treat for hyperkalemia with both Calcium Chloride and Sodium Bicarbonate in conjunction with cardiac arrest guidelines.",
+      "Push Sodium Bicarbonate immediately prior to release",
+      "Add Sodium Bicarbonate to each liter of Isotonic Crystalloid",
+      "If MAP > 65 and no respiratory failure, then Fentanyl for pain and Ketamine for refractory pain",
+      "If MAP < 65 and/or respiratory failure, then Ketamine for pain"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

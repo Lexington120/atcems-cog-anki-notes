@@ -1,0 +1,58 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined HandTevy",
+      "Children compensate well initially but decompensate quickly with little warning.",
+      "Most pediatric cardiac arrests are due to respiratory compromise.",
+      "Reason for tracheostomy placement",
+      "Time since tracheostomy placement",
+      "Bleeding",
+      "Tracheal trauma",
+      "Respiratory distress",
+      "Swelling/edema",
+      "Closing of tracheostomy"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Airway obstruction",
+      "Blocked tube",
+      "Mucosal or tracheal injury",
+      "Tracheo-innominate fistula",
+      "Pneumonia",
+      "Equipment malfunction",
+      "COPD/Asthma",
+      "Pulmonary Edema"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Apply high-flow Oxygen to both the tracheostomy and the face",
+      "Remove speaking cap, if present",
+      "BVM – connect to tracheostomy with inner cannula, or pediatric mask if unable",
+      "If no chest rise, block tracheostomy with wet gauze and BVM on face",
+      "SpO monitor",
+      "Look for easily correctible causes of distress, such as detached oxygen sources",
+      "If ventilator problem, remove patient from ventilator and utilize BVM",
+      "If no pulse at any time, CPR"
+    ],
+    "pl2": [
+      "ETCO monitor",
+      "12-lead ECG placement and acquisition"
+    ],
+    "pl3": [
+      "If suction catheter cannot be passed, ventilate from mouth with standard airway management while covering stoma"
+    ],
+    "pl4": [
+      "Tracheal suctioning",
+      "2-3mL saline may be used to loosen secretions",
+      "IV / IO access as appropriate for patient condition",
+      "If bleeding profusely, place 20cc of air or saline into cuff"
+    ],
+    "pl5": [
+      "If tube is blocked, deflate cuff if present and remove/clean or attempt to place new one",
+      "Attempt oral intubation Replace stoma with ETT (one size below tracheostomy size or 6.0) Direct the placement of digital pressure on the posterior wall of the manubrium",
+      "If this requires removal of the tracheostomy tube, only perform after successful intubation (will need to go deeper)"
+    ],
+    "pl6": []
+  }
+}

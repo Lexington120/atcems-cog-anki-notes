@@ -1,0 +1,53 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Use volume control device (IV Burette) for Dextrose Infusions.",
+      "Upper limit BGL is 200",
+      "Decrease mental status",
+      "Change in baseline mental status.",
+      "Bizarre behavior",
+      "Hypoglycemia (cool, diaphoretic skin)",
+      "Hyperglycemia (warm & dry skin, fruity breath, Kussmaul respirations, signs of dehydration)",
+      "Hypoxia",
+      "Brain trauma"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "CNS (Stroke, Tumor, Seizure, Infection)",
+      "Cardiac (MI, CHF)",
+      "Infection",
+      "Thyroid (hyper or hypo)",
+      "Shock (septic, metabolic, traumatic)",
+      "Toxicological / Carbon Monoxide / Cyanide",
+      "Acidosis / Alkalosis",
+      "Heat Stroke or Hypothermia",
+      "Electrolyte abnormality"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen, target SpO 92 – 96%",
+      "BGL Assessment, if BGL < 50 and intact gag reflex then Oral Glucose &",
+      "Consider turning off insulin pump if present",
+      "Basic Airway Management as needed"
+    ],
+    "pl2": [
+      "Assess for a Stroke and follow Stroke COG accordingly",
+      "Monitor ETCO"
+    ],
+    "pl3": [
+      "Vascular access as appropriate for patient condition",
+      "If BGL < 50 then Dextrose Infusion titrated to patient condition and response",
+      "If BGL < 50 and no IV access, then Glucagon",
+      "If BGL > 300 in adults or > 200 in pediatrics or signs of dehydration, then infusion",
+      "f isotonic crystalloid"
+    ],
+    "pl4": [
+      "Cardiac monitor and 12 ECG",
+      "Advanced Airway Management as needed"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

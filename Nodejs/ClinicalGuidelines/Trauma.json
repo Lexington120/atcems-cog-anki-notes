@@ -1,0 +1,73 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Fluids and Medication titrated to maintain a SBP >70 + (age in years x 2) mmHg",
+      "Hypotension: (SBP < 70+ 2x Age in years)",
+      "Massive Hemorrhage",
+      "Airway",
+      "Respirations (decompression)",
+      "Circulation (IV, TXA)",
+      "Hypothermia / Head injury",
+      "Pain",
+      "Antibiotics",
+      "Wound Care",
+      "Splinting",
+      "Respiratory failure",
+      "Foreign body airway",
+      "bstruction",
+      "Hypovolemia",
+      "Trauma",
+      "Tension pneumothorax",
+      "Hypothermia",
+      "Toxins or Overdose",
+      "Hypoglycemia",
+      "Acidosis",
+      "Acute MI or PE"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Control external hemorrhage and apply tourniquet(s) as necessary, including junctional tourniquets if needed and available.",
+      "Wound packing (junctional/extremity) with pressure dressing as appropriate and apply Quick Clot Combat Gauze if available",
+      "Elevate head of bed 30⁰ unless cardiac arrest or step-offs noted in C-spine",
+      "BLS airway management",
+      "Place occlusive dressing/chest seal over open pneumothorax",
+      "Evaluate for spinal motion restriction – Do not transport laying on long spine board",
+      "Assess GCS score",
+      "Apply pelvic binder if appropriate",
+      "Keep patient supine and warm",
+      "Administer oxygen to targeted SpO"
+    ],
+    "pl2": [
+      "Bandage/splint injuries as appropriate for patient condition",
+      "Declare Trauma Alert / Activation if appropriate for patient condition",
+      "3-lead ECG placement",
+      "ETCO assessment",
+      "Acetaminophen (adult only)",
+      "Ibuprofen for musculoskeletal and/or joint pain/injury",
+      "Acetaminophen (all routes) – IV Acetaminophen only if MAP > 65",
+      "Vascular access",
+      "Adult: Isotonic Crystalloid IV bolus 250 mL if patient shows signs of shock; Pediatric 20 mL/kg as needed",
+      "Tranexamic Acid (TXA)"
+    ],
+    "pl3": [
+      "Needle decompression of the chest as indicated",
+      "Advanced airway management",
+      "Pain management – Fentanyl and/or Ketamine as indicated.",
+      "If Adult Spinal Shock – Norepinephrine (Levophed) Infusion titrated to MAP > 65",
+      "Push-dose Epinephrine",
+      "Blood Product Transfusion and Calcium Chloride",
+      "Ultrasound for EFAST exam."
+    ],
+    "pl4": [
+      "Simple Thoracostomy",
+      "Field Amputation as required",
+      "Escharotomy as indicated for ventilation compliance"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

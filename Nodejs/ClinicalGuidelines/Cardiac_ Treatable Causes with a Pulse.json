@@ -1,0 +1,55 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Focus on rapid and early BLS airway and ventilation tools. Intubation may not be the best",
+      "ption for these patients.",
+      "Pediatric pads should be used in children < 10 Kg or PEDIA tape color purple.",
+      "If pulse < 60 despite",
+      "xygenation and ventilation, begin chest compressions and CPR",
+      "Unresponsive",
+      "Abnormal breathing (gasps)",
+      "Absent heart sounds",
+      "Continue to address specific signs, symptoms, and/or dysrhythmia."
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Hypoxia:",
+      "Adult & Pediatric - Airway Management and Oxygen",
+      "Hypothermia:",
+      "Adult & Pediatric - Active warming strategies",
+      "Hypovolemia:",
+      "Adult & Pediatric - Fluid bolus with Isotonic Solution as needed",
+      "Hypoglycemia:",
+      "Adult & Pediatric - Dextrose infusion"
+    ],
+    "pl2": [
+      "Calcium Channel / Beta Blocker Overdose",
+      "Adult & Pediatric - Glucagon",
+      "Calcium Channel / Beta Blocker Overdose",
+      "Pediatric – Epinephrine infusion",
+      "Tension Pneumothorax:",
+      "Adult & Pediatric - Needle Decompression",
+      "Adult- Simple Thoracostomy (only in cardiac arrest)",
+      "Acidosis:",
+      "Adult & Pediatric - Sodium Bicarbonate",
+      "Hyperkalemia",
+      "Adult – Calcium Chloride, Sodium Bicarbonate, and Albuterol",
+      "Pediatric – Sodium Bicarbonate",
+      "Calcium Channel / Beta Blocker Overdose",
+      "Adult – Calcium Chloride",
+      "Anaphylaxis:",
+      "Adult & Pediatric - Epinephrine"
+    ],
+    "pl3": [
+      "Tension Pneumothorax:",
+      "Adult – Simple Thoracostomy (significant hemodynamic compromise)"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

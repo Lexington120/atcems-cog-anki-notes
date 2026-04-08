@@ -1,0 +1,47 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Loss of consciousness with recovery",
+      "Lightheadedness, dizziness",
+      "Palpitations, slow or rapid pulse",
+      "Pulse irregularity",
+      "Decreased blood pressure",
+      "Vasovagal",
+      "Hypotension / Hypoperfusion",
+      "Cardiac syncope / PE",
+      "Micturition / Defecation syncope"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Stroke",
+      "Hypoglycemia",
+      "Seizure",
+      "Toxicological",
+      "Medication effect (hypotension)",
+      "Aortic Stenosis / Vascular Disease"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen titrated and PRN",
+      "BGL assessment",
+      "Assess for a Stroke and follow Stroke COG accordingly",
+      "Basic airway management",
+      "Oral rehydration if stroke assessment negative and patient can manage their own airway",
+      "Spinal Motion Restriction Assessment",
+      "4 lead and 12 lead placement / acquisition of ECG",
+      "EtCO placement",
+      "Vascular access",
+      "Isotonic Crystalloid as needed for dehydration or hypotension not caused by hemorrhage"
+    ],
+    "pl2": [
+      "Monitoring and interpretation of ECG"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

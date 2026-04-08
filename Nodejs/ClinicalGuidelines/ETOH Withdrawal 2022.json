@@ -1,0 +1,43 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Headache",
+      "Nausea and/or Vomiting",
+      "Diarrhea",
+      "Restlessness or sleeplessness",
+      "Tachycardia",
+      "Hypertension",
+      "Tremors",
+      "Tongue fasciculation",
+      "Confusion and/or Agitation",
+      "Seizures",
+      "Cessation or temporary abstinence from alcohol use",
+      "Hypoglycemia",
+      "Head trauma"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Heat exhaustion/ Heat stroke",
+      "Drug or toxin exposure",
+      "Sepsis",
+      "Hypoxia",
+      "Cardiac issues",
+      "Seizure disorder"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Take a thorough history to include volume, quantity, and frequency of alcohol use",
+      "Provide oxygen as needed to maintain SpO > 94%",
+      "Oral hydration, if tolerated",
+      "Vascular access",
+      "Begin fluid resuscitation with 20 ml/kg isotonic crystalloid",
+      "If the patient meets indications for alcohol withdrawal syndrome in accordance to the screening checklist and has no exclusions, then Midazolam"
+    ],
+    "pl2": [],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

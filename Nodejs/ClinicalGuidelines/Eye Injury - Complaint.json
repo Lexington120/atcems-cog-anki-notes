@@ -1,0 +1,43 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Pain, swelling, blood",
+      "Deformity, contusion",
+      "Visual deficit / loss of vision",
+      "Leaky aqueous / vitreous humor",
+      "Upwardly fixed eye",
+      "Shooting or streaking light",
+      "Visual contaminants",
+      "Rust ring",
+      "Lacrimation",
+      "Trauma",
+      "Infection – Viral URI or Sinusitis",
+      "Allergic rhinitis",
+      "Lesions – Polyps, Ulcers",
+      "Hypertension"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Evaluate pupils",
+      "Complete neurological exam",
+      "Screen for unrecognized chemical and/or agent exposure",
+      "Cover both eyes",
+      "If out of socket, then cover with sterile water or isotonic crystalloid soaked gauze",
+      "If impaled objected, then stabilize the object then cover both eyes",
+      "If chemical exposure or burn, then irrigate with copious amounts of sterile water or isotonic crystalloid",
+      "Perform an initial and repeat respiratory assessments.",
+      "Vascular access",
+      "May use Lidocaine in 1 L Isotonic Crystalloid for irrigation"
+    ],
+    "pl2": [],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Focus on rapid and early BLS airway and ventilation tools. Intubation may not be the best",
+      "ption for these patients.",
+      "Pediatric pads should be used in children < 10 Kg or PEDIA tape color purple.",
+      "Unresponsive",
+      "Abnormal breathing (gasps)",
+      "Pulseless",
+      "Absent heart sounds",
+      "Obvious death",
+      "Respiratory failure",
+      "Foreign body airway",
+      "bstruction",
+      "Hyperkalemia",
+      "Infection (Croup, epiglottitis)",
+      "Hypovolemia",
+      "Congenital heart disease",
+      "Trauma",
+      "Tension pneumothorax",
+      "Hypothermia",
+      "Toxins or Overdose",
+      "Hypoglycemia",
+      "Acidosis",
+      "Acute MI or PE"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Assess for unresponsiveness, absence of normal breathing, and pulselessness",
+      "Assess for obvious death criteria",
+      "Begin Pit Crew CPR procedure",
+      "BLS Airway Management and BVM with Oxygen as available",
+      "Passive oxygenation with nasal cannula at 25 LPM",
+      "Airway management with iGel as needed",
+      "Monitor ETCO"
+    ],
+    "pl2": [
+      "Vascular access IO can be placed first, but IV access is preferred when able to",
+      "btain. If patient ≤ 12 months, distal femur IO is preferred",
+      "Epinephrine",
+      "Fluid bolus with isotonic crystalloid as needed (max 1000mL unless suspect hypovolemia)"
+    ],
+    "pl3": [
+      "Monitor and interpret ECG",
+      "Manual Defibrillation",
+      "Adult: Maximum Joules",
+      "Pediatric: Initial 2 joules/kg then repeat 4 joules/kg – Refer to Pediatric Dosing Chart or HandTevy",
+      "Amiodarone",
+      "If pVT/VF refractory to Amiodarone, then Lidocaine",
+      "If Torsades de Points or polymorphic pVT, then Magnesium Sulfate",
+      "If treatable cause is identified, move that that treatment up in priority",
+      "Advanced Airway Management as needed. iGel is a good temporary and initial advanced airway, however, intubation should be performed when clinical and",
+      "perational opportunities arise during the resuscitation.",
+      "Double sequential external defibrillation at maximum Joules for Adults Only",
+      "IF refractory to at least 2 shocks pads placed Anterior / Posterior, the 3 rd shock should be DSED or vector change if 2 nd monitor is not immediately available",
+      "pVT / VF NEVER converted",
+      "If ROSC then declare a resuscitation alert and use Post Resuscitation Checklist."
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

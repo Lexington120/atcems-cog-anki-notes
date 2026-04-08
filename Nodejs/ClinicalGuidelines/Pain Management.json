@@ -1,0 +1,50 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Severity (Pain scale)",
+      "Quality",
+      "Radiation",
+      "Relation to movement",
+      "Respirations",
+      "Reproduceable",
+      "Increased upon palpation",
+      "Per the specific protocol",
+      "Musculoskeletal",
+      "Visceral (abdominal)",
+      "Cardiac",
+      "Pleural / Respiratory",
+      "Neurogenic",
+      "Kidney stone"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen",
+      "Pain scale assessment 0-10, Wong-Baker faces for pediatrics, FLACC for infants",
+      "Splinting as needed",
+      "Ice pack as needed",
+      "Bilateral BP measurements",
+      "SPO2 monitoring",
+      "ECG application",
+      "ETCO2 monitoring",
+      "Acetaminophen – Adult PO only",
+      "Ibuprofen – Adult PO only",
+      "Acetaminophen",
+      "Vascular access",
+      "Isotonic Crystalloid as needed",
+      "Monitoring and interpretation of ECG & EtCO"
+    ],
+    "pl2": [
+      "Fentanyl",
+      "Ketamine only if respiratory failure; or pain unchanged by Fentanyl",
+      "Lidocaine for suspected kidney stone"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Altered mental status",
+      "Sleepiness",
+      "Incontinence",
+      "Observed seizure activity",
+      "Evidence of trauma",
+      "Unconscious",
+      "Fever",
+      "Seizure activity",
+      "Tongue trauma",
+      "Rash",
+      "Nuchal rigidity",
+      "CNS/Head trauma",
+      "Tumor",
+      "Metabolic, Hepatic, or Renal failure",
+      "Electrolyte abnormality (Na, Ca, Mg, K)",
+      "Medication non-compliance",
+      "Infection / Fever",
+      "Alcohol withdrawal",
+      "Eclampsia"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Stroke",
+      "Hyperthermia",
+      "Hypoglycemia"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen",
+      "BGL & CPSS assessments",
+      "SMR assessment",
+      "BLS airway management",
+      "For any seizure in a pregnant or recently post-partum patient, consider eclampsia and consult the OB Emergencies COGs.",
+      "Examine mental status, HEENT, heart, lungs, extremities, and neuro",
+      "Place ECG and ETCO2",
+      "Patient assist: Vagus Nerve Stimulator (VNS) q 60 seconds, may repeat x3",
+      "Vascular access",
+      "Isotonic Crystalloid fluid challenge at 30 ml/kg",
+      "Pediatric: Temp > 100.4 F then Acetaminophen"
+    ],
+    "pl2": [
+      "Monitoring and interpretation of ECG & EtCO"
+    ],
+    "pl3": [
+      "Midazolam",
+      "Advanced airway management as needed"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

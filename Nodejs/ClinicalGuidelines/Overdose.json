@@ -1,0 +1,52 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Salivation",
+      "Lacrimation",
+      "Urination",
+      "Defecation",
+      "GI distress",
+      "Emesis",
+      "Bronchospasm",
+      "Bronchorrhea",
+      "Bradycardia",
+      "Seizure"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Stroke",
+      "MI",
+      "Asthma / COPD",
+      "Other chemical agent / weapon",
+      "Biologic agent / weapon",
+      "Overdose",
+      "Food borne illness",
+      "Airborne irritant (hydrogen sulfide, chlorine, etc.)"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Scene safety, PPE",
+      "Basic Airway Maneuvers",
+      "Narcotic OD: Naloxone IN, only if respirations are depressed",
+      "Provide patient and/or acquaintance a Naloxone Rescue Kit if available",
+      "ECG Application",
+      "EtCO application and monitoring",
+      "Vascular access",
+      "Narcotic OD: Naloxone if respirations are depressed",
+      "Monitoring and interpretation of ECG & EtCO"
+    ],
+    "pl2": [
+      "Advance airway maneuvers",
+      "Adult: Midazolam",
+      "Calcium Channel / Beta Blocker OD: Calcium Chloride, Epinephrine Infusion & Glucagon (Beta blocker OD only)",
+      "Tricyclic or Phenobarbital OD: Sodium Bicarbonate",
+      "Transcutaneous Cardiac Pacing PRN"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

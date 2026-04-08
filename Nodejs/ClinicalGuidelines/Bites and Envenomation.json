@@ -1,0 +1,41 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Rash, skin break, wound pain, soft tissue swelling, redness",
+      "Blood oozing from the bite wound",
+      "Evidence of infection",
+      "Shortness of breath, wheezing",
+      "Allergic reaction, hives, itching",
+      "Hypotension or shock",
+      "Animal bite",
+      "Human bite",
+      "Snake bite (poisonous)",
+      "Spider bite (poisonous)",
+      "Insect sting / bite (bee, wasp, ant, tick)",
+      "Infection risk",
+      "Rabies risk",
+      "Tetanus risk"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "If Insect Bite:",
+      "Remove stinger, if appropriate",
+      "Apply ice pack",
+      "Minimize movement and remove constricting items",
+      "If Snake Bite",
+      "Splint limb, bandage  If pit viper – elevate affected limb 60 degrees  If coral snake – maintain at level of the heart",
+      "Minimize movement and remove constricting items"
+    ],
+    "pl2": [
+      "Pain Management Guideline as needed"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

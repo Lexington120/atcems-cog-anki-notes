@@ -1,0 +1,48 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Restlessness, confusion, weakness",
+      "Syncope",
+      "Tachycardia",
+      "Diaphoresis",
+      "Pale, cool, clammy skin",
+      "Delayed capillary refill",
+      "Coffee-ground emesis",
+      "Tarry stools",
+      "Infection/Sepsis",
+      "Dehydration",
+      "Vomiting",
+      "Diarrhea",
+      "Congenital heart disease",
+      "Medication or Toxin",
+      "Anaphylaxis",
+      "Cardiac Failure (myocarditis)"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen",
+      "Supine position, keep patient warm",
+      "Oral rehydration, if tolerated",
+      "Vascular access",
+      "These fluid boluses are for volume depletion – NOT for active bleeding.",
+      "Pediatric: Isotonic Crystalloid bolus 20 ml/kg may repeat 10ml/kg bolus x 2 PRN",
+      "Adult non-cardiac: Isotonic Crystalloid 500-1000 ml bolus, may repeat up to 2 liters",
+      "Adult Cardiac: Isotonic Crystalloid 250-500 ml bolus, may repeat up to 1 liter",
+      "Tranexamic acid (TXA) for hypotension due to hemorrhage",
+      "Adult: Norepinephrine (Levophed) infusion, titrated to MAP > 65 following fluid resuscitation or Epinephrine",
+      "Push dose Epinephrine or Norepinephrine",
+      "Pediatric: Epinephrine infusion titrated to effect",
+      "Blood product administration procedure, including Calcium Chloride"
+    ],
+    "pl2": [],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

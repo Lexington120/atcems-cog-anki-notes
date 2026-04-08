@@ -1,0 +1,63 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Focus on rapid and early BLS airway and ventilation tools. Intubation may not be the best",
+      "ption for these patients.",
+      "Pediatric pads should be used in children < 10 Kg or PEDIA tape color purple.",
+      "Unresponsive",
+      "Abnormal breathing (gasps)",
+      "Pulseless",
+      "Absent heart sounds",
+      "Obvious death",
+      "Respiratory failure",
+      "Foreign body airway",
+      "bstruction",
+      "Hyperkalemia",
+      "Infection (Croup, epiglottitis)",
+      "Hypovolemia",
+      "Congenital heart disease",
+      "Trauma",
+      "Tension pneumothorax",
+      "Hypothermia",
+      "Toxins or Overdose",
+      "Hypoglycemia",
+      "Acidosis",
+      "Acute MI or PE"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Assess for unresponsiveness, absence of normal breathing, and pulselessness",
+      "Assess for obvious death criteria",
+      "Begin Pit Crew CPR procedure",
+      "BLS Airway Management and BVM with Oxygen as available",
+      "Passive oxygenation with nasal cannula at 25 LPM",
+      "Airway management with iGel as needed",
+      "Monitor ETCO"
+    ],
+    "pl2": [
+      "Vascular access IO can be placed first, but IV access is preferred when able to",
+      "btain. If patient ≤ 12 months, distal femur IO is preferred",
+      "Epinephrine",
+      "Fluid bolus with isotonic crystalloid as needed"
+    ],
+    "pl3": [
+      "Monitor and interpret ECG",
+      "Narrow PEA QRS < 0.12 seconds:",
+      "Consider mechanical causes - Cardiac tamponade, Tension pneumo, Mechanical hyperinflation, PE, Hypovolemia, Acute MI, Pump failure",
+      "Wide PEA QRS > 0.12 seconds or Asystole:",
+      "Consider metabolic causes – Tricyclic OD, Severe hyperkalemia, Acidosis, Calcium Channel Blocker OD, Acute MI, Pump failure.",
+      "Advanced Airway Management as needed. Intubation is not required if iGel is functioning appropriately with continuous waveform capnography.",
+      "Perform Needle Decompression for the asthmatic patient in arrest.",
+      "Perform Simple Thoracostomy for the asthmatic patient in arrest.",
+      "If ROSC then declare a resuscitation alert and use Post Resuscitation Checklist.",
+      "Targeted Temperature Management procedure if patient qualifies."
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

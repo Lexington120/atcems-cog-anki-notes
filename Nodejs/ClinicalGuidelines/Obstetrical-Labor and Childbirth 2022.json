@@ -1,0 +1,48 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Due date of LMP",
+      "Time contractions started & how often",
+      "Rupture membranes",
+      "Time / amount of any vaginal bleeding",
+      "Sensation of fetal activity",
+      "Past medical and delivery history",
+      "Gravida / Para status",
+      "Medications",
+      "If known high risk pregnancy",
+      "Episodic pain",
+      "Vaginal discharge or bleeding",
+      "Crowning or urge to push",
+      "Meconium",
+      "Urge to defecate",
+      "Abnormal presentation:",
+      "Buttock",
+      "Foot",
+      "Hand",
+      "Prolapsed cord",
+      "Placenta previa",
+      "Abruptio placenta",
+      "Premature labor"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Delivery Checklist",
+      "See Clinical Procedures for Birthing and Position Complications, and APGAR Scoring",
+      "Oxygen, target SpO to 92-96%",
+      "When the newborn’s mouth appears over the perineum, immediately suction mouth then nose.",
+      "Allow newborn to nurse and massage the fundus to promote uterine contraction and prevent/control postpartum bleeding",
+      "Vascular access with Isotonic Crystalloid titrated to effect for vaginal hemorrhage",
+      "Tranexamic Acid for hypotension due to significant hemorrhage following delivery or delayed placenta delivery"
+    ],
+    "pl2": [
+      "Blood Product Transfusion and Calcium Chloride for severe postpartum hemorrhage"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

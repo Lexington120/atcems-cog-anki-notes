@@ -1,0 +1,52 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg, as defined by HandTevy.",
+      "Anxiety, agitation, confusion",
+      "Affect change, hallucinations",
+      "Delusional thoughts, bizarre behavior",
+      "Tachycardia, diaphoresis, tachypnea",
+      "Struggles violently despite appropriate restraint",
+      "Combative/violent",
+      "Very “hot” to touch",
+      "Metabolic/endocrine disorders",
+      "Head injury, encephalitis, seizure",
+      "Medication effect/overdose, Serotonin Syndrome, polypharmacy",
+      "Medication stoppage",
+      "Bipolar (manic-depressive)",
+      "Schizophrenia, anxiety disorders, etc.",
+      "Alcohol, amphetamine, cocaine"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen ≥6lpm titrate to 95-100% SpO"
+    ],
+    "pl2": [
+      "BGL Assessment",
+      "Temperature assessment",
+      "Verbal de-escalation",
+      "Basic Airway Management as needed",
+      "Physical restraint, if needed, and use sedation checklist",
+      "Cooling measures if needed",
+      "Head elevated 30°"
+    ],
+    "pl3": [
+      "Continuous cardiac, ETCO2, and SpO2 monitoring",
+      "Vascular access as appropriate for patient condition",
+      "Fluid therapy as needed with isotonic crystalloid, preferred cold"
+    ],
+    "pl4": [
+      "12 ECG",
+      "If the patient suffers cardiac arrest, consider a fluid bolus and Sodium Bicarbonate early",
+      "RASS +4 (Hyperactive Delirium with Severe Agitation) - Sedation Checklist",
+      "RASS +2 or +3 (aggressive behaviors requiring sedation) – Behavioral COG",
+      "RASS +1 or +2 (uncontrolled anxiety) – Behavioral COG",
+      "Advanced Airway Management as needed"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

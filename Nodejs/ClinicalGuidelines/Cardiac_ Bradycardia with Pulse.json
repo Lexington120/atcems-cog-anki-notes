@@ -1,0 +1,60 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Focus on rapid and early BLS airway and ventilation. Intubation may not be the best",
+      "ption for these patients.",
+      "If HR <60 and age ≤1 yr , be gi n CPR",
+      "Pediatric pads should be used in children < 10 Kg or PEDIA tape color purple.",
+      "HR < 60 min with hypotension",
+      "Acute altered LOC",
+      "CHF",
+      "Seizure, syncope or shock secondary to bradycardia.",
+      "Altered LOC",
+      "Shock / Hypotension",
+      "Syncope",
+      "Respiratory distress",
+      "Respiratory obstruction",
+      "Beta blocker / Digoxin",
+      "Calcium Channel Blocker",
+      "Organophosphate",
+      "Hypovolemia",
+      "Hypothermia",
+      "Hypoxia",
+      "Infection / Sepsis",
+      "Medication or Toxin",
+      "Trauma",
+      "Arrhythmia / Acute MI"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen PRN titrated to SpO 92%-96%",
+      "Basic airway management",
+      "If pediatric and HR < 60 with poor perfusion despite oxygenation & ventilation, begin Pit Crew CPR",
+      "4 lead and 12 lead ECG placement and acquisition",
+      "Apply waveform EtCO"
+    ],
+    "pl2": [
+      "Vascular access",
+      "Isotonic Crystalloid PRN titrated to SBP > 90 mmHg or MAP > 65"
+    ],
+    "pl3": [
+      "Glucagon in setting of Beta Blocker OD or Calcium Channel Blocker OD",
+      "Monitor and interpret ECG",
+      "If Pediatric: Epinephrine",
+      "Atropine",
+      "Sedation: Midazolam or Ketamine",
+      "Transcutaneous Cardiac Pacing",
+      "If Adult: Norepinephrine (Levophed) infusion",
+      "If Adult: Epinephrine infusion titrated to MAP > 65",
+      "If Pediatric: Epinephrine infusion titrated to patient presentation",
+      "Advanced airway management as needed"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

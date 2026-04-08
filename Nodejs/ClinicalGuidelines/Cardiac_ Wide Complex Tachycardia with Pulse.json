@@ -1,0 +1,54 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Focus on rapid and early BLS airway and ventilation tools. Intubation may not be the best",
+      "ption for these patients.",
+      "Pediatric pads should be used in children < 10 Kg or PEDIA tape color purple.",
+      "QRS > 0.12 sec",
+      "Ventricular tachycardia on ECG (runs or sustained)",
+      "Conscious, rapid pulse",
+      "Chest pain",
+      "Shortness of breath",
+      "Dizziness",
+      "Rate usually 150-180 bpm for sustained V-tach",
+      "Artifact / Device failure",
+      "Cardiac history",
+      "Endocrine / Electrolyte",
+      "Hyperkalemia",
+      "Drugs / Toxic exposure",
+      "Pulmonary disease",
+      "Tricyclic OD"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen PRN titrated to SpO 92%-96%",
+      "Basic airway management",
+      "4 lead and 12 lead ECG placement and acquisition",
+      "Apply waveform EtCO"
+    ],
+    "pl2": [
+      "Vascular access",
+      "Isotonic Crystalloid PRN titrated to SBP > 90 mmHg or MAP > 65"
+    ],
+    "pl3": [
+      "Monitor and interpret ECG",
+      "If a Treatable cause is identified, move that treatment up in priority",
+      "If Torsades de Pointes: Magnesium Sulfate",
+      "If Torsades de Pointes: Defibrillate at maximum joules for Adult",
+      "If Ventricular Tachycardia: Amiodarone infusion",
+      "If VT is refractory Amiodarone, then Lidocaine",
+      "Sedate with Midazolam or Ketamine",
+      "If hyperkalemia or Tricyclic OD, consider Sodium Bicarbonate early",
+      "Synchronize cardioversion at maximum Joules for Adult",
+      "For Pediatric Cardioversion 0.5 – 1.0 j/kg, repeat at 2 j/kg as needed",
+      "12 lead ECG post conversion"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

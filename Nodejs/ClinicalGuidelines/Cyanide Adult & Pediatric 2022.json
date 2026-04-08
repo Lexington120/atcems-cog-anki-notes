@@ -1,0 +1,45 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
+      "Pediatric hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Headache, weakness, vertigo",
+      "Nausea / Vomiting",
+      "Chest Pain / Respiratory Distress",
+      "Tachycardia / Tachypnea",
+      "Severe:",
+      "Cardiac Arrest",
+      "Seizures",
+      "Altered Mental Status / Coma",
+      "Acute coronary syndrome",
+      "Stoke / TIA",
+      "PE",
+      "Meningitis / Encephalitis",
+      "Head trauma",
+      "Diabetes",
+      "Acute intoxication",
+      "CO Poisoning"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Scene safety & decontaminate patient as needed",
+      "Oxygen via NRB 15 LPM regardless of SpO reading and passive oxygenation with NC at 25 LPM",
+      "Basic airway maneuvers and management as needed"
+    ],
+    "pl2": [
+      "Monitor EtCO as soon as it is practical"
+    ],
+    "pl3": [
+      "Vascular access",
+      "Hydroxocobalamin"
+    ],
+    "pl4": [
+      "Advance airway maneuvers and management as needed"
+    ],
+    "pl5": [],
+    "pl6": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy.",
+      "Pain severity",
+      "Nausea / Vomiting",
+      "Photo / Auditory sensitivity",
+      "“Worst ever”",
+      "Thunderclap",
+      "Nuchal rigidity",
+      "Associated neurologic signs: diplopia, ataxia, weakness, etc."
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Stroke",
+      "Head trauma",
+      "Hypoxia",
+      "Seizure",
+      "Neoplasm",
+      "Toxins",
+      "Hypertension",
+      "Dehydration",
+      "Infection",
+      "Meningitis",
+      "Hyper/hypoglycemia",
+      "Pre-eclampsia",
+      "Anxiety"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen, target SpO 92 – 96%",
+      "BGL Assessment",
+      "Perform stroke assessment",
+      "Oral rehydration if stroke assessment negative",
+      "Basic Airway Management as needed",
+      "3 & 12-lead ECG placement",
+      "Monitor ETCO"
+    ],
+    "pl2": [
+      "Acetaminophen for pain, only if no signs of difficulty swallowing are noted",
+      "If SBP > 180 or DBP > 120, then suspect hypertensive crisis and consult OLMC",
+      "Vascular access as appropriate for patient condition",
+      "IV Acetaminophen for pain if PO route is not available",
+      "Signs of dehydration, then infusion of isotonic crystalloid PRN"
+    ],
+    "pl3": [
+      "Cardiac monitor and 12 ECG",
+      "Droperidol for migraine",
+      "Midazolam for withdrawal or anxiety/panic attack",
+      "Advanced Airway Management as needed"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

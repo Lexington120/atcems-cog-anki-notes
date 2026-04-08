@@ -1,0 +1,54 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by HandTevy, hypotension is defined as SBP < 70 + (age in years x 2) mmHg",
+      "Altered mental status",
+      "Weak / Paralysis",
+      "Blindness or other sensory loss",
+      "Aphasia / Dysarthria",
+      "Syncope",
+      "Vertigo / Dizziness",
+      "Vomiting",
+      "Headache",
+      "Seizures",
+      "Respiratory pattern change",
+      "Hyper/hypotension",
+      "Altered mental status",
+      "Transient Ischemic Attack (TIA)",
+      "Seizure",
+      "Hypoglycemia",
+      "Hypoxia / Hypercarbia"
+    ],
+    "signsAndSymptoms": [],
+    "differential": [
+      "Stroke",
+      "Thrombotic / Embolic (85%)",
+      "Hemorrhagic (15%)",
+      "Tumor",
+      "Trauma",
+      "Atypical migraine"
+    ]
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Oxygen titrated and PRN",
+      "BGL assessment",
+      "Cincinnati Pre-hospital Stroke Screen (CPSS) Assessment",
+      "If CPSS+, then specifically assess for motor weakness.",
+      "If weak, then Visual Disturbance, Aphasia, and Neglect (VAN) Score",
+      "Basic airway management",
+      "Positive CPSS & Glucose > 50 and last known well < 23 hours, then declare Stroke Alert and < 15 minute-on -scene time",
+      "Positive CPSS, weakness, +VAN & Glucose > 50 and last known well < 23 hours, then declare LVO Alert and < 15 minute-on -scene time",
+      "Place 4 & 12 lead ECGs, EtCO monitoring"
+    ],
+    "pl2": [
+      "Vascular access, 2 nd vascular access if time and patient conditions permit"
+    ],
+    "pl3": [
+      "Monitoring and interpretation of ECG"
+    ],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}

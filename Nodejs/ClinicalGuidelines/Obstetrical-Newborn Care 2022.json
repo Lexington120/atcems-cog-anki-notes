@@ -1,0 +1,52 @@
+{
+  "assessment": {
+    "pediatricPearls": [
+      "Due date and gestational age",
+      "Multiple gestation (twins, etc.)",
+      "Meconium",
+      "Delivery difficulties",
+      "Congenital disease",
+      "Maternal medications",
+      "Maternal risk factors:",
+      "Substance misuse",
+      "Smoking",
+      "Respiratory distress",
+      "Normal peripheral cyanosis or mottling",
+      "Abnormal central cyanosis",
+      "Altered level of responsiveness",
+      "Bradycardia",
+      "Airway failure",
+      "Secretions",
+      "Respiratory drive",
+      "Infection",
+      "Maternal medication effect",
+      "Hypovolemia",
+      "Hypoglycemia",
+      "Congenital heart disease",
+      "Hypothermia"
+    ],
+    "signsAndSymptoms": [],
+    "differential": []
+  },
+  "clinicalManagementOptions": {
+    "pl1": [
+      "Delivery Checklists",
+      "Oxygen, target SpO to 92-96%",
+      "Wipe nose and mouth with sterile gauze Suction if meconium or airway obstruction Vigorously dry and stimulate infant Keep warm. APGAR Score @ 1 and 5 minutes",
+      "If stable, allow to nurse and skin to skin contact for mother and baby If just after birth pulse is < 100, BVM on “room air” for 30 seconds @ rate of 40-60 BPM If after initial ventilations pulse continues at < 60, Begin CPR: 120 compressions with asynchronous ventilations at 30 per minute. Begin with room air and progress to Oxygen",
+      "If after initial ventilations pulse continues at 60 – 100, BVM only on “room air” add Oxygen as needed to increase SpO if < 95% If after initial ventilations pulse improves and maintains > 100, monitor and Reassess",
+      "BGL heel stick",
+      "Vascular access – IV or IO if cardiac arrest of critical condition",
+      "Naloxone if mother received narcotics just prior or during childbirth and signs & symptoms of opioid overdose are present",
+      "Dextrose infusion if BGL < 40mg/dL",
+      "Isotonic Crystalloid titrated to perfusion"
+    ],
+    "pl2": [
+      "Advanced airway maneuvers and management as needed"
+    ],
+    "pl3": [],
+    "pl4": [],
+    "pl5": [],
+    "pl6": []
+  }
+}
