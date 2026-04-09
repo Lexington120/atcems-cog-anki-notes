@@ -2,7 +2,9 @@
   "assessment": {
     "pediatricPearls": [
       "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
-      "DKA often presents with abdominal pain, nausea, and vomiting.",
+      "DKA often presents with abdominal pain, nausea, and vomiting."
+    ],
+    "signsAndSymptoms": [
       "Pain",
       "Nausea",
       "Vomiting",
@@ -11,7 +13,9 @@
       "Constipation",
       "Vaginal bleeding / discharge",
       "Pregnancy",
-      "Fever",
+      "Fever"
+    ],
+    "differential": [
       "Pneumonia or P.E.",
       "Hepatitis or Pancreatitis",
       "Gastroenteritis",
@@ -24,9 +28,7 @@
       "Pelvic – Pregnancy, Ectopic, STI, PID, Ovarian Cyst",
       "Diverticulitis",
       "Bowel Obstruction"
-    ],
-    "signsAndSymptoms": [],
-    "differential": []
+    ]
   },
   "clinicalManagementOptions": {
     "pl1": [
@@ -34,16 +36,17 @@
       "Nausea and Vomiting Guideline as needed"
     ],
     "pl2": [
-      "3 & 12-lead ECG placement",
+      "3 & 12-lead ECG placement"
+    ],
+    "pl3": [],
+    "pl4": [
       "IV / IO access as appropriate for patient condition",
       "IV fluid with isotonic crystalloid as needed for dehydration"
     ],
-    "pl3": [
+    "pl5": [
       "ECG Assessment",
       "Pain Management Guideline as needed"
     ],
-    "pl4": [],
-    "pl5": [],
     "pl6": []
   }
 }

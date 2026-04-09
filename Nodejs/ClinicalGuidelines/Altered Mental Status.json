@@ -3,7 +3,9 @@
     "pediatricPearls": [
       "Use pediatric dosing of medications or electrical therapy for a pediatric patient < 37 kg and as defined by the PEDIA Tape.",
       "Use volume control device (IV Burette) for Dextrose Infusions.",
-      "Upper limit BGL is 200",
+      "Upper limit BGL is 200"
+    ],
+    "signsAndSymptoms": [
       "Decrease mental status",
       "Change in baseline mental status.",
       "Bizarre behavior",
@@ -12,7 +14,6 @@
       "Hypoxia",
       "Brain trauma"
     ],
-    "signsAndSymptoms": [],
     "differential": [
       "CNS (Stroke, Tumor, Seizure, Infection)",
       "Cardiac (MI, CHF)",
@@ -29,25 +30,24 @@
     "pl1": [
       "Oxygen, target SpO 92 – 96%",
       "BGL Assessment, if BGL < 50 and intact gag reflex then Oral Glucose &",
-      "Consider turning off insulin pump if present",
+      "> Consider turning off insulin pump if present",
       "Basic Airway Management as needed"
     ],
     "pl2": [
       "Assess for a Stroke and follow Stroke COG accordingly",
       "Monitor ETCO"
     ],
-    "pl3": [
+    "pl3": [],
+    "pl4": [
       "Vascular access as appropriate for patient condition",
       "If BGL < 50 then Dextrose Infusion titrated to patient condition and response",
       "If BGL < 50 and no IV access, then Glucagon",
-      "If BGL > 300 in adults or > 200 in pediatrics or signs of dehydration, then infusion",
-      "f isotonic crystalloid"
+      "If BGL > 300 in adults or > 200 in pediatrics or signs of dehydration, then infusion of isotonic crystalloid"
     ],
-    "pl4": [
+    "pl5": [
       "Cardiac monitor and 12 ECG",
       "Advanced Airway Management as needed"
     ],
-    "pl5": [],
     "pl6": []
   }
 }

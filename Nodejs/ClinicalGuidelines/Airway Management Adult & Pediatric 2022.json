@@ -32,15 +32,18 @@
       "BLS Foreign Body Airway Obstruction evaluation / removal",
       "Place NPA and/or OPA and ventilate with BVM",
       "Oxygen, including passive apneic oxygenation 25 lpm with NC",
-      "SpO monitor",
+      "SpO monitor"
+    ],
+    "pl2": [
       "BIAD",
       "ETCO monitor",
       "12-lead ECG placement and acquisition"
     ],
-    "pl2": [
+    "pl3": [],
+    "pl4": [
       "IV / IO access as appropriate for patient condition"
     ],
-    "pl3": [
+    "pl5": [
       "Direct laryngoscopy Foreign Body Airway Obstruction evaluation / removal.",
       "Evaluate ECG",
       "Gastric tube as needed",
@@ -51,17 +54,15 @@
       "Direct laryngoscopy intubation with Gum Bougie",
       "Nasotracheal intubation",
       "Post intubation medications:",
-      "Ketamine",
-      "Midazolam",
-      "Rocuronium",
+      "> Ketamine",
+      "> Midazolam",
+      "> Rocuronium",
       "Surgical cricothyroidotomy if patient > 10 years of age",
       "Needle cricothyroidotomy for pediatric patients"
     ],
-    "pl4": [
+    "pl6": [
       "Rocuronium for Rapid Sequence Induction",
       "Use Airway Management Checklist for all Rapid Sequence Inductions"
-    ],
-    "pl5": [],
-    "pl6": []
+    ]
   }
 }
