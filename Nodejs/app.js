@@ -39,6 +39,23 @@ function getOutputJsonPathForPdf(pdfPath) {
   return path.join(dir, `${base}.json`);
 }
 
+function getOutputTextPathForPdf(pdfPath) {
+  const dir = path.dirname(pdfPath);
+  const base = path.basename(pdfPath, path.extname(pdfPath));
+  return path.join(dir, `${base}.txt`);
+}
+
+function parseProcessMode(raw) {
+  const a = raw.toLowerCase();
+  if (a === "1" || a === "cog" || a === "guideline") {
+    return "cog";
+  }
+  if (a === "2" || a === "generic" || a === "text") {
+    return "generic";
+  }
+  return null;
+}
+
 function normalizeLines(text, keepEmpty = false) {
   const lines = text
     .split(/\r?\n/)
@@ -362,6 +379,18 @@ function buildStructuredOutput(text) {
 
 async function main() {
   try {
+    const modeAnswer = await askQuestion(
+      "Processing mode — 1) COG guideline PDF (structured JSON)  2) Generic PDF (plain text only)\nEnter 1 or 2: "
+    );
+    const processMode = parseProcessMode(modeAnswer);
+    if (!processMode) {
+      console.error(
+        'Invalid mode. Enter 1 (or "cog") for COG, or 2 (or "generic") for plain text.'
+      );
+      process.exitCode = 1;
+      return;
+    }
+
     const inputPath = await askQuestion(
       "Enter a PDF file path or a directory path: "
     );
@@ -381,6 +410,14 @@ async function main() {
 
     if (stats.isFile()) {
       const text = await extractPdfText(resolvedInputPath);
+      if (processMode === "generic") {
+        const outputPath = getOutputTextPathForPdf(resolvedInputPath);
+        fs.writeFileSync(outputPath, text, "utf8");
+        console.log("\nExtracted text saved to:");
+        console.log(outputPath);
+        return;
+      }
+
       const structured = buildStructuredOutput(text);
       const outputPath = getOutputJsonPathForPdf(resolvedInputPath);
       fs.writeFileSync(outputPath, JSON.stringify(structured, null, 2), "utf8");
@@ -409,6 +446,13 @@ async function main() {
 
     for (const pdfPath of pdfFiles) {
       const text = await extractPdfText(pdfPath);
+      if (processMode === "generic") {
+        const outputPath = getOutputTextPathForPdf(pdfPath);
+        fs.writeFileSync(outputPath, text, "utf8");
+        console.log(`Saved: ${outputPath}`);
+        continue;
+      }
+
       const structured = buildStructuredOutput(text);
       const outputPath = getOutputJsonPathForPdf(pdfPath);
       fs.writeFileSync(outputPath, JSON.stringify(structured, null, 2), "utf8");
