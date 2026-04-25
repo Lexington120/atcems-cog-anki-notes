@@ -1,0 +1,61 @@
+
+
+Patient Referral Central Health Bridge Clinic
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED09.13.2024 (MD 24-09)PAGE1 of 2PATIENTREFERRAL TOCENTRALHEALTH
+Standard:
+To establish guidelines for referring individuals to the Central Health Bridge Clinic.
+Purpose:
+To establish criteria for ATCEMS referral of persons to an approved alternate primary/urgent care
+resource to facilitate more appropriate evaluation and care.
+Patient Selection:
+General Applicability:
+1. Able to provide EMS personnel with name, date of birth, gender, phone number if applicable,
+and housing status or address
+2. Currently enrolled in MAP or qualifies for MAP (unhoused patients qualify immediately)
+3. Does not require special precautions for infectious diseases.
+4. Does not meet any alert criteria.
+5. Will not require monitoring, re-evaluation of treatment or ongoing treatment during transport.
+Immediate Exclusion Criteria:
+If the patient meets any exclusion criterion, then the patient may not be transported to this
+resource:
+1. Age <18 years
+2. Cannot sit, stand, walk, and pivot.
+3. Primary behavioral health impression
+4. New fractures or suspected fractures
+5. Acute alcohol or substance intoxication
+Vital Sign Requirements:
+1. Pulse: 60 – 110 bpm
+2. Systolic BP: 90 – 200 mmHg
+3. Respirations: 12 – 30 bpm
+4. Blood Glucose: 70 – 300 mg/dL; no signs of DKA
+5. SPO
+2
+≥ 93% on room air or prescribed supplemental oxygen
+Circumstantial Evaluation, and all of these must apply:
+1. Patient understands and follows commands.
+2. Patient does not require physical restraint(s).
+3. Patient is not in the custody of a peace officer.
+4. A physician has not specifically requested ambulance transport.
+If the patient has previous fractures that are already being treated (e.g. has a cast) or
+has a previous psychiatric diagnosis but is cooperative and that is not the main reason
+for transport, the patient should not be excluded.
+Field Providers:
+1. Perform complete assessment, physical exam, and diagnostics
+2. Review patient selection criteria
+3. Obtain patient consent to attempt this plan of care.
+4. Determine appropriate clinical guideline(s), patient care plan based on complaint and
+presentation.
+5. Contact C4
+6. Document interaction in ePCR, transport as appropriate, using Pulsara to contact clinic
+
+Patient Referral Central Health Bridge Clinic
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED09.13.2024 (MD 24-09)PAGE2 of 2PATIENTREFERRAL TOCENTRALHEALTH
+C4:
+1. Screen for Patient selection criteria and ensure that clinic is able to take the patient
+2. If questions arise as to the appropriateness of patient disposition, contact OLMC or clinic, as
+appropriate
+3. Document interaction and consult

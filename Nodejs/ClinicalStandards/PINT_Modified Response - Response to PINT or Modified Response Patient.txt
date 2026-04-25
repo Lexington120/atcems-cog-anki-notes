@@ -1,0 +1,40 @@
+
+
+Provider Initiated No-Transport or Individual Patient Modified Response
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED09.27.2023 (MD 23-18)PAGE1 of 1PINT/MODIFIEDRESPONSE
+Standard:
+Establish guidelines for responding units to assess patients under an OCMO-designated Provider
+Initiated No-Transport (PINT) or Modified Response
+Purpose:
+To ensure patient safety by establishing uniform criteria for responding providers to assess and
+document patients under an OCMO-designated PINT or modified response. To achieve better
+patient outcomes by navigating high-utilizers to appropriate resources. To ensure adequate
+resource utilization by modifying behaviors that lead to misuse of limited 9-1-1 resources.
+Application:
+Vital Sign Requirements:
+1. Pulse: 60 – 110 bpm
+2. Systolic BP: 90 – 200 mmHg
+3. Respirations: 12 – 30 bpm
+4. Blood Glucose: 70 – 300 mg/dL; no signs of DKA
+5. SPO
+2
+≥ 93% on room air or prescribed supplemental oxygen
+Documentation Requirements:
+1. ESO Disposition – Patient evaluated, no treatment/transport required
+2. Complete set of vital signs
+3. Provider signatures
+4. Complete assessment
+5. All documentation requirements for patients
+Care Requirements:
+1. No lights or sirens response if Priority 3 or lower
+2. Assess for and treat any life-threats
+a. If life threats are found, transport as appropriate
+3. Complete any requirements of the PINT/modified response order
+4. Offer services as needed and available
+5. Refer to appropriate resources
+6. If deviating from a PINT, call OLMC unless alert criteria are met
+If the individual does not meet the above requirements but a provider feels that a PINT
+may be appropriate for a patient, the C4 should be contacted and an Integrated Services
+provider should contact OLMC for consult if appropriate.

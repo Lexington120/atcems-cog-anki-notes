@@ -1,0 +1,69 @@
+
+
+Patient Referral to Franchise Provider (Integrated Services)
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED04.12.2024 (MD 24-04)PAGE1 of 2PATIENTREFERRALGUIDELINE FORFRANCHISEPROVIDER
+Standard:
+To establish guidelines for referring individuals to franchise providers without OLMC consult.
+Purpose:
+To establish criteria for C4 referral to franchise provider without the requirement for OLMC consult
+after MPDS triage and Integrated Services provider evaluation for efficient use of 9-1-1 resources.
+If a patient does not meet these criteria but a franchise provider may still be appropriate, OLMC
+should be consulted.
+Application:
+General Applicability:
+1. Patient is coming from a skilled nursing facility
+2.   Franchise provider has an ETA of ≤3 hours AND time is within next critical medication
+administration if applicable
+3. Patient stable per caller
+Vital Sign Requirements:
+1. Pulse: 60 – 110 bpm
+2. Systolic BP: 90 – 200 mmHg
+3. Respirations: 12 – 20 bpm
+4. Blood Glucose: 70 – 300 mg/dL; no signs of DKA
+5. SPO
+2
+≥ 93% on room air or prescribed supplemental oxygen
+6. Temperature 96-100.4 degrees F
+Criteria where OLMC is not required:
+1. Lab abnormalities:
+a. Hemoglobin (Hgb) greater than 5.5
+i) Exclusions: known source of bleeding, symptomatic including shortness of
+breath, increased fatigue, dizziness, chest pain
+b. Sodium (Na) between 120-150
+i)   Exclusions: AMS from baseline, nausea/vomiting, headache, seizure
+c. Calcium (Ca) between 7.0-12
+i) Exclusions: paresthesias, generalized weakness, AMS from baseline
+d. Potassium (K) between 2.5 and 5.5
+i)
+Exclusions: generalized weakness, AMS from baseline
+2. Scheduled or routine procedures:
+a. Paracentesis, PICC line replacement, trach replacement
+i. Exclusions: acute complaint pertaining to procedure such as abdominal
+pain, concern for infection, difficulty breathing
+3. Dislodged or clogged medical device
+b. JP surgical drain
+i. Exclusions: bleeding around site, concern for infection, severe pain from
+baseline around site
+
+Patient Referral to Franchise Provider (Integrated Services)
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED04.12.2024 (MD 24-04)PAGE2 of 2PATIENTREFERRALGUIDELINE FORFRANCHISEPROVIDER
+b. Suprapubic tube
+i. Exclusions: Pain or trauma to site, placed less than 3 months ago,
+bleeding or infection around site, suprapubic fullness or pain causing
+moderate to severe discomfort
+c. Foley Cather
+i. Exclusions: Suprapubic pain or fullness causing moderate to severe
+discomfort, trauma or severe pain to urethra
+d.   Feeding tubes (PEG, G/J/GJ, NG/NJ)
+i. Exclusions: any percutaneous tube less than 3 months old, pain around
+site, infection around site
+4.X-rays with fractures that injury occurred greater than 24 hours from call
+a.Exclusions: uncontrolled pain to injured area, loss of pulse/motor/sensation or
+coolness to limb distal to fracture
+5.
+Family or patient unhappy with care being given at facility
+a.Exclusion: acute complaint or emergent condition identified

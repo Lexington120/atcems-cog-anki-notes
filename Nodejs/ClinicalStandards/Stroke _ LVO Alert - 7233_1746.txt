@@ -1,0 +1,55 @@
+
+
+Stroke/LVOAlert
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED11.01.2021 (MD 21-13)PAGE1 of 1STROKE/ LVO ALERT
+Standard:
+To establish guidelines for declaring a Stroke or Large Vessel Occlusion (LVO) Alert and initiating
+patient transport to an appropriate receiving facility based on COG transport guideline.
+Purpose:
+To outline the assessment of a patient currently exhibiting signs and/or symptoms associated with
+stroke.
+Application:
+1. Initiate assessment and treatment of suspected stroke patients in accordance with most
+appropriate clinical guideline(s).
+2. Utilize Stroke Screening checklist.
+3. Ascertain the last time the patient was seen normal to establish the time oflastknownwell.
+4. Obtain a blood glucose level according to the blood glucose procedure.
+5. Perform the Cincinnati Prehospital Stroke Screen (CPSS).
+a. All portions of CPSS must be completed. Any abnormality in the screening is positive for
+stroke.
+6. If the has a positive CPSS, then assess for weakness and perform the Visual Disturbance,
+Aphasia, and Neglect (VAN) Score.
+a. If any portion of the VAN assessment is positive, then the patient is VAN positive. A
+positive VAN Score & positive CPSS screening along with weakness is positive for a
+LVO.
+7. Declare the appropriate alert and identify the appropriate destination:
+LVO AlertStroke Alert
+Patient is positive for CPSS, also has
+weakness, and
+positive VAN Score
+Patient is positive for CPSS but negative
+VAN Score
+Onset of symptoms or last known well time is < 23 hours & bloodglucose > 50
+Transport to Thrombectomy Capable Stroke
+Center
+Transport to Primary or Thrombectomy
+Ca
+pable Stroke Centers
+May transport to Primary Stroke Center (PSC) only if distance to Thrombectomy Capable
+Stroke Center (TCSC) is > 15 minutes further.
+For example: Scene to PSC is 5 minutes or 20 minutes to TCSC, then transport to TCSC.
+Scene to PSC is 5 minutes or 21 minutes to TCSC
+,then transport to PSC.
+Any patient with stroke-like symptoms with onset > 23 hours should be transported to
+the closest Stroke Center
+Refer to Transport Guideline and Matrix As Needed
+8. Whenever possible, identify a family member or historian to accompany the patient to the
+hospital.
+9. Tool to aid in capturing patient information for the receiving facility - #FILM
+a. # - Unit Number
+b. F – Family contact info
+c. I – Recent Interventions (Surgeries, cardiac cath, etc.)
+d. L – Last known well
+e. M – Medication (specifically antiplatelet and anti-coagulant)

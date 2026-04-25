@@ -1,0 +1,39 @@
+
+
+Atypical Clinical Guideline Utilization and Online Medical Direction
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE1 of 1   ATYPICALGUIDELINEUTILIZATION& ONLINEMEDDIRECTION
+Standard:
+Provide direction on managing patients and circumstances whose needs are outside the guidelines.
+Purpose:
+Give direction for providers who encounter complicated, unusual, and atypical patient encounters
+and to establish an orderly method by which these clinical issues can be rapidly addressed.
+Application:
+1) Clinical encounters requiring use of this guideline may be divided into two types:
+a) Those whose clinical situation is covered by an existing guideline but are presenting a
+clinical/administrative challenge and require non-medical control guidance
+Examples: clarification of a COG, patient destination, other healthcare provider issues, etc.
+and require non-medical control guidance
+b) Those whose clinical situation is not covered by existing guideline and thus require medical
+control orders via online medical consultation.
+Examples: modification of drug dosage, patient medication not addressed in guideline or
+unfamiliar to a provider, termination of resuscitation not covered in current policy.
+2) Patients requiring online medical consultation (1b) shall contact medical control as described in
+steps 4 and 5 below. The provider requesting online medical control must be on the scene with
+the patient.
+3) The first call for operational/clinical issues related to an individual patient or patients will be
+placed to an organization’s designated clinical supervisory personnel (e.g., DMO).The call
+should be placed via a recorded line through Communications. If the clinical supervisory
+personnel are not available the call should be directed to the On-Call System Medical Director
+via Communications on a recorded line.
+4) If online medical control consultation is required or desired the request should be made to the
+On-Call System Medical Directors.
+a) If a System Medical Director is unable to be contacted then; a physician at the intended
+receiving hospital may be used via recorded telephone line through Communications or
+radio. If calling a hospital for online medical control; only physicians at receiving hospitals
+can provide medical direction; other staff, including nurses, may not provide online medical
+direction.
+5) The name of the individual providing online medical control or administrative direction shall be
+clearly documented in the narrative section of the PCR. This documentation shall include times,
+names, and details of consultations made by the EMS provider.

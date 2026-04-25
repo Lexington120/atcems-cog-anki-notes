@@ -1,0 +1,35 @@
+
+
+Cancellation or Alteration of Response
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED: 12.01.2024 (MD 24-15)PAGE1 of 1CANCELLATION ORALTERATION OFRESPONSE
+Standard:
+Establish direction for cancelling or altering an initial response to a request for service.
+Purpose:
+To give all providers in the ATCEMS System guidance on when they may be able to alter or cancel
+an initial response based on patient or scene presentation.
+Application:
+1. Resources will be initially dispatched to a 9-1-1 request for service based on the currently
+approved Medical Priority Dispatch (MPD) standards.
+2. After assessing the patient(s) and making a determination of needed resources any on-
+scene Credentialed Provider may modify or cancel the response mode of any other System
+Provider not already on-scene.
+a. Prior to scene arrival, EMS specialty units staffed with at least one provider at the
+>PL5 level or Office of the Chief Medical Officer (>PL7) providers may, at their
+discretion, replace an assigned ambulance on priority 4 or 5 calls, except PSYC4F, to
+respond and initiate patient assessment/care then determine the need for a
+transport unit or disposition options.
+i. If the call priority changes to 1-3, then an ambulance will be assigned to
+respond.
+ii. When replacing an assigned ambulance, a specialty unit should proceed to the
+call in a non-emergency response mode.
+b. A credentialed Integrated Services – Collaborative Care Communications Center (C4)
+provider may navigate the incident and cancel responding units on calls dispatched
+to the C4 following appropriate MPDS triage.
+3. If cancelled, responders may, at their discretion, reduce their response to non-lights and
+sirens (“Code 1”) and continue to provide other assistance deemed appropriate by their
+organization or department. This does not apply to responses for responsibilities other than
+patient care (scene safety, fluids, etc).
+4. At the discretion of the Integrated Services Medical Director and the Integrated Services
+Division Chief, responses may be modified for ongoing incidents of inappropriate 9-1-1 use.

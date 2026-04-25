@@ -1,0 +1,78 @@
+
+
+Cardiac Arrest Documentation
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED04.12.2024 (MD 24-04)PAGE1 of 2CARDIACARRESTDOCUMENTATION
+Standard:
+To establish guidelines for narrating and documenting cardiac arrest care for quality improvement
+use.
+Purpose:
+The resuscitation audio recording and documentation provides a means of improving our methods,
+protocols, and training in order to improve the care we provide to cardiac arrest patients. The
+recording should describe what is happening at the scene with respect to clinical care. Providers
+should think of this process as equivalent to what you would say if the Medical Director were on the
+phone with you during the resuscitation efforts and you were describing to them what is going on
+at the scene.
+Application:
+For each cardiac arrest documentation, attempt to include as many of these elements as is
+possible:
+1. Team leader name and Unit #
+2. Witnessed arrest or not
+3. Circumstances prior to arrest
+4. Briefly describe the patient (age, gender)
+5. Bystander CPR? If so, who?
+6. Briefly describe any unusual findings
+7. Patient response(s), or lack thereof, to interventions
+Interventions and actions should be verbalized and documented in the ePCR:
+1. Moving patient to a larger or different space
+2. Compressions started/stopped, and use of metronome/feedback device
+3. Switched compressors
+4. AED’s activation/decision to shock or not to shock, same for use of cardiac monitor
+5. CPR feedback puck placed
+6. Ventilation with BVM and timing light
+7. EtCO
+2
+values and waveform
+8. Placement and confirmation of BIAD
+9. Pulse present/absent during AED or ECG analysis
+10.Medications administered and interventions performed by providers
+11.Patient has ROSC/pulses
+
+Cardiac Arrest Documentation
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED04.12.2024 (MD 24-04)PAGE2 of 2CARDIACARRESTDOCUMENTATION
+Crime scene management where no resuscitation is initiated:
+1. Any Responder, who is not credentialed to seek a TOR of an obvious Dead on Scene (DOS),
+should immediately leave the area via the path of entry without touching anything.
+2. When TOR is required, only one properly Credentialed Provider should make entry to the area.
+Crime scene management with unsuccessful resuscitation:
+1. Once resuscitation efforts have ceased and a TOR has been obtained providers should
+immediately vacate the area.
+2. The Medical Examiner must be able to differentiate between punctures originating from
+resuscitation efforts and those present prior to arrival. All unsuccessful IV/IO or pleural
+decompression attempts should be marked on the body by circling with a marker or pen.
+Crime scene management with patient transport:
+1. Clothing, jewelry or other objects removed from the patient should be left on-scene. Clearly
+document any items left and inform on-scene Law Enforcement of the items original and
+current locations.
+2. When cutting clothing for the purpose of assessment and/or treatment avoid cutting through
+existing defects in the clothing (tears, entry or exit points) whenever possible.
+3. If the patient has been placed on a sheet, notify the receiving facility that the sheet and all
+personal effects may be considered evidence.
+4. If law enforcement is not on-scene prior to transport, the first response agency is to remain on
+scene, out of the crime scene perimeter, until arrival of law enforcement. An effort should be
+made to keep all individuals out of the area.
+Crime scene management with “exigent” circumstances:
+1. Code of Criminal Procedure Title 1 Chapter 49.25 Removal of Bodies Section 8: “When any
+death under circumstances set out in Section 6 (below) shall have occurred, the body shall not
+be disturbed or removed from the position in which it is found by any person without
+authorization from the medical examiner or authorized deputy, except for the purpose of
+preserving such body from loss or destruction or maintaining the flow of traffic on a highway,
+railroad or airport.”
+2. In the case of these exceptions providers may be requested by law enforcement to assist with
+the movement/removal of the body. When possible evidence blankets should be used for
+patient movement and every effort should be made to preserve evidence where possible.
+Addition Information Texas Code of Criminal Procedure, Title 1. Code of Criminal Procedure,
+Chapter 49. Inquests Upon Dead Bodies.

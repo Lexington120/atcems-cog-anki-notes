@@ -1,0 +1,49 @@
+
+
+Documentation of Vital Signs
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE1 of 1DOCUMENTATION OFVITALSIGNS
+Standard:
+Vital signs are a required element of any patient evaluation. Complete sets of vital signs are to be
+documented for any patient who receives an assessment; or, documentation should describe why
+vitals could not be obtained. At minimum, the standard is to obtain an initial set of vital signs and
+at-least another set prior to patient disposition; be it a refusal of care, discharge by EMS, or arrival
+at a healthcare facility.
+Purpose:
+To insure that evaluation of every patient’s volume, cardiovascular and mental status are
+documented with a complete set of vital signs.
+Application:
+1. Initial vital signs will be obtained manually with subsequent vital signs obtained
+electronically as long as they correlate with the manual vital signs. If there is a discrepancy,
+manual vital signs should be continued. Initial vital signs may be deferred until transport in
+severe trauma when other treatments and packaging may take priority and vital signs may
+interfere with the timely execution of these priorities.
+2. An initial complete set of vital signs includes:
+•  Peripheral or central pulse rate
+•  Systolic AND diastolic blood pressure
+•  Respiratory rate
+•  Pain / severity (pain scale used & score), how pain was treated and response to
+treatments with pain scale.
+•  Cumulative GCS score with individual sub scores.
+•  Body temperature
+3. Palpated blood pressures may be acceptable for repeat vital signs for patients not requiring
+medication administration or perfusion monitoring
+4. Based on patient condition and complaint, vital signs may also include:
+•  Pulse Oximetry
+•  End Tidal CO2
+•  Electrical heart rate from cardiac monitoring
+5. If the patient refuses vital signs, document the refusal in the PCR in accordance with the
+Refusal of Treatment or Transportation Standard (Clinical Standard on Refusal of Treatment
+and/or Transport).
+6. When any components of vital signs were obtained using the cardiac monitor, the data
+should be exported electronically to the electronic patient care report. Where values are
+inconsistent with manually obtained values, values may be appropriately edited to reflect
+the manually obtained values and accounted for in the narrative.
+7. The mechanical pulse rate should be obtained through palpation.
+8. Record the time all vital signs were obtained.
+9. Any abnormal vital sign should be repeated and monitored closely.
+10.Vital signs should be obtained approximately every 10 minutes. The provider should change
+the frequency as need to appropriately care for the patient.
+11.An initial set of vital signs is obtained once the patient consents to treatment and can be
+accessed.

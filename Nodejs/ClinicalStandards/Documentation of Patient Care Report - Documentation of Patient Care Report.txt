@@ -1,0 +1,114 @@
+
+
+Documentation of Patient Care Report
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED: 12.01.2024 (MD 24-15)PAGE1 of 3DOCUMENTATION OFPATIENTCAREREPORT
+Standard:
+Establish the minimum documentation requirements for every patient contact.
+Purpose:
+To provide consistent and accurate documentation of DSHS reportable events following Tex. Admin
+Code Rule (TAC)
+§ 103.4, the ATCEMS System Medical Director is responsible for designating the
+minimum data required for patient care reporting. The following are the minimum requirements for
+documentation on incidents arising from a
+911 request for medical aidor otherwise resulting in a
+patient contact, as defined in the clinical standard onDefinition of a Patient.
+Intent:
+To ensure that all incidents where units are dispatched for the care of a real or perceived patient
+are appropriately documented per TAC 103.4. The ideal outcome is for one ePCR per incident
+whenever a CAD number is generated for a medical request for service, whether or not medical
+care is delivered on scene. Key decisions will include what dispositions to use, as noted below, and
+who will complete the ePCR. Providers should err on completing an ePCR if they do not know who is
+responsible for the chart on an incident when multiple units are assigned. The goal of this standard
+is to ensure compliance with state law while respecting our clinicians' time.
+Application:
+If a unit is assigned to an incident and replaced by another unit from the same agency before
+arrival at the scene:
+a) No ePCR is required.
+For all incidents:
+a) System agencies will ensure that providers can complete a patient care report within the
+time limits specified in this standard.
+b) One provider in each responding unit will be designated as responsible for completing
+the patient care report.
+c) Be truthful, accurate, objective, pertinent, legible, and complete with appropriate
+spelling, abbreviations, and grammar.
+d) Be completed within 24 hours of disposition of the incident.
+e) Remain confidential and be shared only with legally acceptable entities.
+f)  Once an ePCR is completed, the original record will not be modified for any reason. Any
+changes required to correct a documentation error or to add clarification shall be
+recorded in an addendum.
+For every incident where a unit is dispatched but is canceled before arrival on the scene, the
+following documentation requirements apply:
+a) Select a “canceled prior to arrival” disposition.
+b) Document any special circumstances in the narrative
+c) If multiple system organizations respond to an incident, at least one credentialed
+provider from each organization must complete a report that is accurate to their
+organization’s activities.
+For every incident where a unit is dispatched but does not make patient contact after arriving on
+scene, the following documentation requirements apply:
+a) Select a “no patient contact” disposition.
+
+Documentation of Patient Care Report
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED: 12.01.2024 (MD 24-15)PAGE2 of 3DOCUMENTATION OFPATIENTCAREREPORT
+b) If a patient could not be located, document any efforts made to locate the patient in the
+narrative.
+c) If multiple system organizations respond to an incident, at least one credentialed
+provider from each organization must complete a report that is accurate to their
+organization’s activities.
+If the definition of a patient is met on an encounter and a patient-provider relationship is
+established, all care must be documented. A separate patient care report must be completed for
+each patient on a scene. For every patient contact, the following documentation requirements
+apply:
+a) Reflect the patient’s chief complaint and a complete history or sequence of events that
+led to their current request or need for care.
+b) Contain a detailed assessment of the nature of the patient’s complaints and the rationale
+for that assessment.
+c) Document a complete physical assessment, a
+complete set of initial vital signs, and all
+other pertinent findings.
+d) Document anything specific to the patient’s condition (RAAS for behavioral patients, loss
+of consciousness for head injury patients, blood thinner use in head strike patients, LVO
+assessment in patients with arm weakness, etc.).
+e) Document ongoing monitoring of abnormal findings.
+f)  Document any changes in the patient's condition.
+g) Summarize all assessments and interventions in chronological order and the results of
+the interventions with appropriate detail so that the reader may fully understand and
+recreate the events.
+h) For medication administrations, include the name, dose administered, route,
+administration time, indication, and patient response.
+i)  For patients with extremity injury, note neurovascular status before and after
+immobilization.
+j)  For IV administration, document the catheter size, site, any failed attempts, type of
+fluid, and amount of fluid administered.
+k) Include a lead II strip for all patients placed on the cardiac monitor. All 12-leads should
+also be included. Any significant rhythm changes should be documented. For cardiac
+arrests, the initial strip, ending strip, pre and post-defibrillation, pacing attempts, etc.
+should be attached. Or, electronically captured, uploaded and combined with the ePCR
+record.
+l)  Document any requested orders, whether approved or denied, with physician’s name.
+m) Document any waste of narcotics including the quantity wasted, where wasted, and
+must have the name of the person who witnessed the waste in appropriate software.
+n) Include an explanation for why an indicated and appropriate assessment, intervention,
+or action prescribed by the Clinical Operating Guidelines did NOT occur.
+o) If multiple System Organizations are on the scene, at least one System
+Provider/Responder making patient contact from each response organization is
+responsible for documenting ALL interactions, assessments and treatments their
+response organization provided to the patient on a ePCR for their organization. All
+system-credentialed providers involved in patient care must be documented in the
+ePCR(s). All system-credentialed providers are responsible for the documentation of
+
+Documentation of Patient Care Report
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED: 12.01.2024 (MD 24-15)PAGE3 of 3DOCUMENTATION OFPATIENTCAREREPORT
+patient care and pertinent elements of the history and physical examination during their
+phase of care.
+p) If any clinical interventions are performed by a system credentialed provider prior to the
+arrival of the transporting asset, completed
+patient notes(or substantially similar) are to
+be provided to the transporting asset. These clinical notes are to be transported with the
+patient to the receiving facility. This should include, at a minimum: patient name,
+treatments rendered, and the times that such treatments were rendered.

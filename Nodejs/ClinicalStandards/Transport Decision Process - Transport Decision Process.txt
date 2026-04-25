@@ -1,0 +1,50 @@
+
+
+Transport Decision Process
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED12.01.2024 (MD 24-15)PAGE1 of 1TRANSPORTDECISIONPROCESS
+Purpose
+To define a process for transferring care of patients to providers with credentialing levels ≤PL-4.
+Application:
+In
+this standard, a > PL-5 refers to an ATCEMS credentialed > PL-5 with no current restrictions on their
+credential to practice.
+All providers on scene are expected toparticipate in patient care; the highest credentialed provider on
+scene maintains ultimate responsibility for the patient's care and for ensuring that the patient is adequately
+cared for en route to the destination. Stable patients not in need of > PL-5 level care may be attended by
+another provider. A > PL5 must manage any “High-Risk Transport” patient as defined below:
+1. Trauma Alert (Physiologic criteria)
+2. Stroke Alert
+3.   LVO Alert
+4. STEMI alert
+5.   Patients who have experienced syncope
+Exception: Patients <50 years of age who return to normal baseline mental status,
+have a normal ECG, do not have a complaint that otherwise meets High-Risk
+Transport criteria, and no vital signs meet high-risk refusal criteria.
+6.   Postictal seizure patients who have not returned to baseline mental status
+7.   Patients who require additional or ongoing medication(s), intervention(s), and/or monitoring
+beyond the scope of the ≤PL-4 as defined by the clinical operating guidelines.
+8.   Patients who have received medications beyond the scope of practice of the ≤PL-4
+provider.
+Exceptions:
+1. Patients who receive a single dose of Intranasal narcotic for pain
+control of a traumatic injury that does not involve the head, neck,
+chest, or abdomen.
+2. Patients with only an IV saline lock
+3. Patients receiving only monitored PO medications
+4. Initially hypoglycemic patients who return to normal baseline
+status after treatment and have no vital signs that meet high-risk
+refusal criteria
+9.   Patients who the on-scene providers do not agree can be safely transported without a ≥PL-5
+attending in the patient compartment.
+BLS Unit Application:
+Any “High-Risk Transport” patient as defined above must be assessed by a ≥ PL-5 provider or
+responder, if available. However, if a BLS unit has been dispatched to the scene and on-scene
+providers determine that, although the patient meets the criteria for PL-5 evaluation/care, the
+patient would receive significant clinical benefit from rapid transport to the nearest appropriate
+facility and/or the patient would be significantly harmed by waiting on scene for a ≥PL-5, the BLS
+unit may transport the patient to the nearest appropriate facility.
+Documentation:
+The ePCR should reflect the decision-making process to determine which provider attends to the
+patient.

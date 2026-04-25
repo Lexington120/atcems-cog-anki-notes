@@ -1,0 +1,78 @@
+
+
+Definition of a Patient
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE1 of 2DEFINITION OF APATIENT
+Standard:
+To establish guidelines for who meets the criteria to be considered a patient in the ATCEMS
+System.
+Purpose:
+The definition of a patient is any individual person or third party who calls about an individual
+person that:
+•Has a complaint suggestive of potential illness or injury
+•Requests evaluation for potential illness or injury
+•Has obvious evidence of illness or injury
+•Has experienced an acute event that could reasonably lead to illness or injury
+•Is in a circumstance or situation that could reasonably lead to illness or injury
+All individuals meeting any of the above criteria are considered “patients” in the ATCEMS System.
+These criteria are intended to be considered in the broadest sense. The determination of an
+individual’s status as a patient requires the input of both the individual and the Provider as well as
+an assessment of the circumstances that led to the 9-1-1 call.
+Clarification: A person of any age involved in an incident where there is minimal to no evidence of
+injury potential (i.e. motor vehicle collision with minor damage) and, the person has no complaints
+of injury or pain and, does not request a medical assessment and/or, did not request an EMS
+response; may not be considered a patient as indicated in the definitions above. Thus, not subject
+to requiring any further evaluation, assessment or PCR.
+Application:
+1) Anyone that fits the definition of a patient must be properly evaluated by a System credentialed
+provider and appropriate treatment and transportation offered.
+a) If a patient wishes to refuse offered treatment and/or transport Against Medical Advice
+(AMA) refer to Refusal of Treatment or Transportation Standard and the Determination of
+Capacity Standard.
+2) Any adult that does not fit the definition of a patient as defined above does not require an
+evaluation or, completion of a Patient Care Record and, may be designated as “no patient”(s).
+Minors with an appropriate consenter on scene (defined in Clinical Standard on Refusal of
+Treatment and/or Transport) or, who have the ability to consent as provided below may be
+designated as “no patient (s)”. Minors, as defined below and without an appropriate
+“consenter on scene”; must have refusal documentation completed on a PCR/ePCR and, may
+not be designated as “no patient (s).” If there is any doubt; an individual should be deemed a
+patient and an appropriate evaluation should be provided and documented in the PCR/ePCR. If
+an individual meets the definition of a patient the following apply:
+a) The definition of an adult is a person who is 18 years of age or older
+i)  Adults have the right to consent to or refuse medical treatment
+b) The definition of a minor is:
+i)  A person under the age of 18 who is not and has never been married or who has not had
+the disabilities of minority (emancipation) removed for general purposes by a court
+(1) Generally, minors can neither consent to, nor refuse, medical treatment. Some
+minors however, are considered to be emancipated and have the rights of
+consent/refusal afforded an adult
+ii) A minor is considered emancipated if he or she has obtained a court order of
+emancipation from a Texas court. Minors may petition the court for emancipation if he
+is:
+
+Definition of a Patient
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE2 of 2DEFINITION OF APATIENT
+(1) (i)A resident of Texas;(ii) 17 years of age or at least 16 years of age and living
+separate from his parents, managing conservator or guardian;(iii) Is self-supporting
+and managing his own financial affairs
+c) In certain situations, a minor may consent to medical treatment without involvement of a
+parent or legal guardian. A minor may consent to treatment if the minor:
+i)  Is on active duty with the US armed services;
+ii) Is 16 years or older residing separately from his parents or guardian and is managing
+his own financial affairs (regardless of the source of income);
+iii) Consents to diagnosis and treatment of any infectious/communicable disease with a
+reporting requirement;
+iv) Is unmarried and pregnant and consents to care related to the pregnancy, other than
+abortion;
+v) Consents to examination and treatment relating to drug or alcohol dependency;
+vi) Is unmarried and has custody of their biological child, they may consent to treatment for
+the child
+d)  Pediatric guideline on the definition of a patient is:
+i)  For the purpose of determining transport destination, any patient younger than 18 years
+of age unless expressly stated in another guideline, standard or procedure. (e.g. Trauma
+Transport Guidelines where it is defined as age <15 years)
+ii) For the purpose of selecting appropriate treatment guideline, any patient < 37 kg or
+who can be measured using a PEDIA Tape.

@@ -1,0 +1,35 @@
+
+
+Inter-facility Transfers
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2022 (MD 22-01)PAGE1 of 1INTER-FACILITYTRANSFERS
+Standard:
+Establish guidance on Emergent inter-facility transfers (ETRAN).
+Purpose:
+To transport an emergent patient requiring Advanced Life Support care and continuous monitoring
+during their transport from one medical facility to another.
+Application:
+1. The transporting paramedic should ensure that all appropriate documentation accompanies the
+patient. Known STEMI or time dependent Stroke or Trauma patients are exceptions to this rule.
+A memorandum of transfer (MOT) must be obtained (location/facility exceptions noted in CS –
+19) but all other records may be faxed to the receiving facility if not presented at time of
+transfer.
+2. In the event a Transport Provider arrives at the transferring facility and; the patient is on a
+pump, vent, receiving medication (s) not in the System COGs, or on a medical device not used
+in the System; the Transport Provider must contact the on call System Medical Director.
+3. When transporting hospital staff, both the transport crew and accompanying staff are
+responsible for management of the patient.
+4. All EMS rendered treatments must comply with the ATCEMS System Clinical Operating
+Guidelines.
+5. An ATCEMS patient care record will be completed in accordance with the Documentation of the
+Patient Care Report Standard (Clinical Standard on Documentation of Vital Signs).
+6. The following items are required system approved equipment for all transfers.
+•Cardiac monitor/defibrillator
+•Standard response bag
+•Obstetrics kit (OB/GYN transfers only)
+7. All patients that fall within the intent of this Standard should, at a minimum receive:
+•Continuous ECG and oxygen saturation monitoring
+•Non-invasive hemodynamic monitoring (auscultated blood pressure, palpated pulse rate)
+8. If the patient deteriorates, the transferring facility should be notified via radio or cellular phone.
+Additional orders if needed should be obtained from OLMC.

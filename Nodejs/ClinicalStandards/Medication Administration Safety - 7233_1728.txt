@@ -1,0 +1,42 @@
+
+
+Medication Administration Safety
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE1 of 1MEDICATIONADMINISTRATIONSAFETY
+Standard:
+This standard establishes safe practices and uniform system procedures for the administration of
+medications
+Purpose:
+To standardize the appropriate medication administration methods necessary to improve patient
+safety and patient outcomes. The intention is to establish processes that will mitigate the likelihood
+and impact of errors associated with medication administration by preventing the error from
+occurring or preventing the error from reaching the patient.
+Application:
+1. All medications must be administered in accordance with this Clinical Standard using the
+most current System Clinical Guidelines, References, and Procedures.
+a. This standard applies to all system credentialed providers.
+b. This standard applies to the administration of all medications unless specifically
+exempted in other System Clinical Guidelines or Procedures.
+2. Each response agency must ensure all System approved medication administration safety
+tools are available to providers.
+a. Individual providers must have immediate access to the medication safety tools.
+b. A hard copy is preferred with additional access through other means including
+electronic access. As a redundancy, an alternate method for accessing the safety tool
+is required.
+3. The Medication information in the Drug Formulary and the Medication Administration Safety
+Procedure and Medication Safety Checklist contained in Clinical Procedure CP-02 must be
+used each time a medication is administered to a patient.
+a. The Medication Administration Safety procedure defines the methods designed to
+ensure safe medication administration.
+b. The Medication Administration Safety Checklist is used independently by a second
+credentialed provider to verify critical information to minimize the likelihood of a
+medication administration error.
+c. The Medication Reference Tool is used to provide the critical information required
+prior to medication administration. It does not replace the need for provider
+knowledge of medications or the need for the medication information defined in the
+Clinical Operating Guidelines.
+d. The PediaTape device must be used to determine the estimated weight for all
+pediatric patients, if a current and accurate weight is not available.
+4. All details of medication administration and medication safety procedures must be
+accurately and completely documented in the patient care record.

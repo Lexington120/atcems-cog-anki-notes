@@ -1,0 +1,54 @@
+
+
+Patient Safety Event Reporting
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED12.01.2024 (MD 24-15)PAGE1 of 1PATIENTSAFETYEVENTREPORTING
+Standard:
+Provide general direction on reporting events to the System Clinical Quality Improvement team.
+Intent:
+As a public safety-based healthcare system, we must constantly pursue improvement
+opportunities, which requires the commitment of all individuals within the system. Continuous
+improvement consists of self-reporting whenever possible and providing direct constructive
+feedback to colleagues to improve clinical care. Our system is stronger and safer when we are
+accountable and committed to each other enough to provide open and honest feedback in our
+pursuit of professional growth.
+Application:
+1. Receiving facilities, other healthcare providers, the public, and patients can report using
+this system, and reporting should be encouraged. However, they are not required to report.
+2. System providers must report all the events listed below immediately (as soon as possible) to
+the on-duty Designated Medical Officer, Fire Medical Officer, or their agency’s patient safety
+representative via telephone.
+o  Medication or procedural errors that resulted in known or suspected patient harm
+o  Equipment failures, malfunctions, or missing equipment that result in known or
+suspected patient harm
+o  Any patient injury that occurs while the patient is under the care of system providers
+o  In-custody death
+o  Unrecognized esophageal intubation
+o  Provider impaired while on duty
+o  Potentially avoidable patient injury while in EMS care
+o  Practice outside of credentialed scope of practice
+o  Disregarding/alteration of medical control orders
+o  Any event where a suspected EMTALA violation occurs (If there is concern for clinical
+impact, consult OLMC during transport)
+3. System providers are required to report all the events listed below within 12 hours of the event
+via telephone or written report to the appropriate patient safety representative:
+o  Medication or procedural errors with the potential to result in patient harm
+o  Equipment failures or malfunctions resulting in changes to patient care
+o  Any care or therapy cannot be completed due to equipment malfunction or lack of
+equipment availability
+o  Any event or circumstance that is or shall be reported to another regulatory agency
+(DSHS, DEA, etc.)
+o  Any event where a franchise provider contacts 911 for a patient in their care
+o  Any time a cardiac arrest happens in the presence of system providers
+o  Concerns regarding the care provided by other healthcare providers, including:
+  Other EMS agencies
+  Fire Departments
+  Nursing homes
+  Physician’s offices
+  Hospitals
+4. System providers should report the events listed below via the online reporting form at their
+earliest convenience:
+o  Medication irregularities with no impact on patient care
+o  Minor concerns regarding care provided by other healthcare providers
+o  Irregularities in equipment function with no impact on patient care

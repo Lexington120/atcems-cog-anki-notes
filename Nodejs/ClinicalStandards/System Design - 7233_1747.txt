@@ -1,0 +1,63 @@
+
+
+System Design
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE1 of 2SYSTEMDESIGN
+Standard:
+Define the design of the system and how the organizations integrate to form one System of Care.
+Purpose:
+The ATCEMS System is comprised of multiple agencies that include a diverse group of healthcare
+professionals including Communications Specialists, First Responders, Transport Providers, Hospital
+Networks (including specialty receiving centers) and Physicians with varying specialties in the
+community. Together, this “System” provides the basis for seamless delivery of care to acutely ill
+or injured patients in our community.
+Application:
+The ATCEMS System maximizes the opportunity to deliver appropriate care to patients as defined
+by the Guidelines, Procedures and Standards established by the OCMO (Collectively the Clinical
+Operating Guidelines). The goal of these documents is to provide safe consistent and sophisticated
+care to the citizens and visitors of the City of Austin and Travis County.
+Medical Direction for all EMS Providers and First Responders flows from the Office of the Chief
+Medical Officer to each Texas Department of State Health Services (DSHS) Licensed System
+Organization, via Provider and First Responder Organization Agreements. In order for Medical
+Direction to flow from the Licensed Organization to the System Credentialed Providers they must
+respond and provide patient care with the approval of their Licensed Organization (s) within the
+State of Texas only.
+Should they provide COG level patient care at preplanned events not approved by their System
+Licensed Organization and/or outside the State of Texas; System Medical Direction does not apply.
+This provision does not preclude Providers from “stopping to render first aid”.
+1. All medical care within the EMS System should be provided in accordance with the current
+Clinical Operating Guidelines; by individuals currently certified/licensed by the Texas DSHS
+and credentialed by the OCMO.
+2. Individuals holding current Qualifications may deliver specialty care as defined by the COGs
+when appropriate equipment and conditions exist.
+3. All organizations providing medical care as part of the EMS System will comply with Texas
+Department of State Health Services requirements for Provider or First Responder
+Organization Licensure.
+4. All 9-1-1 requests for care will be managed by EMS Communications according to the
+requirements of the currently adopted Medical Priority Dispatch System. This includes call
+triage, pre-arrival instructions and response determinants.
+5. All Tier 2 First Response Organizations will be capable of delivering, at a minimum, Basic
+Life Support care (PL2) as defined by the OCMO.
+6. First Response PL3 – PL5 level of care is supplemental to the System minimum
+requirements.
+7. All System First Response Organizations must maintain the BLS supplies identified on the
+Minimal Equipment List. If a System Registered Organization chooses to equip a PL3 – PL5
+Credentialed Provider, the equipment must be supplied and maintained according to the
+appropriate Minimal Equipment List for that level of care.
+8. Standby and on-site Special Event Providers Minimal Equipment will be determined based
+on the need of the specific event.
+
+System Design
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE2 of 2SYSTEMDESIGN
+9. Treatment of patients with prescription or non-prescription medications that are not
+included in the COG or not approved by OLMC is considered practicing outside the provider’s
+scope of practice.
+10.The use of Equipment or Supplies not approved by the System Medical Director during
+patient care is prohibited. Approved items are specified per the Equipment Lists for each
+System Organization Tier and Credentialing Level. Refer to OCMO References and current
+Transport Unit MELs
+11.During unusual or extreme conditions or circumstances, the above criteria may be modified
+by the Medical Director to best meet the needs of the patients of the EMS System.

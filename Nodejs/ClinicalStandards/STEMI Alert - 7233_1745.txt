@@ -1,0 +1,40 @@
+
+
+STEMI Alert
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE1 of 1STEMI ALERT
+Standard:
+To establish guidelines for declaring a STEMI Alert and initiating patient transport to an appropriate
+receiving facility based on COG transport guideline.
+Purpose:
+In order to more consistently assess and apply the notification for a STEMI Alert the following
+criteria have been developed in conjunction with Regional Mission Lifeline initiative.
+Application:
+STEMI Alert Criteria:
+1. A STEMI Alert should be called when a patient is currently symptomatic for an acute
+coronary syndrome event, and
+2. Has new or presumably new ST segment elevation > 1 mm in two anatomically contiguous
+leads, and
+3. Does not have exclusion criterion listed below.
+4. If a patient meets STEMI Alert criteria and none of the exclusion and ACS consult criteria,
+then a STEMI Alert should 1
+st
+be declared to communications. As soon as possible a 12-lead
+ECG should be transmitted and whenever possible the patient’s name should accompany the
+12-lead ECG.
+5. The transport hospital should be notified of the STEMI Alert as soon as practical and the
+alert must include the transport radio report to the hospital with the patient condition
+information.
+STEMI Alert Exclusions & ACS Consult Criteria:
+1. Patients that are currently asymptomatic for an acute coronary syndrome event however
+have ECG readings consistent with the above STEMI Alert criteria, or
+2. Patients who are symptomatic for an acute coronary syndrome event and have evidence of
+isolated V1 and V2 elevation only, LBBB or LVH, Early repolarization, Ventricular/Ventricular
+Paced, Diffuse ST elevation, or Non-specific ST changes or other abnormal ECG findings
+including poor ECG tracing.
+The provider should not declare a STEMI Alert and should consult with the anticipated receiving
+hospital prior to transport and transmit a 12 lead ECG with ACS Consult - Facility Name in the
+patient ID field.
+The declaration of the STEMI Alert or use of the ACS Consult option should be based upon the
+patient’s current condition and the provider’s judgement.

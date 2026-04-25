@@ -1,0 +1,55 @@
+
+
+Controlled Substance Tracking
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED06.01.2023 (MD 23-10)PAGE1 of 2CONTROLLED SUBSTANCE TRACKING
+Standard:
+To establish minimum requirements for controlled substance ordering, storage, handling,
+supplying, accounting, and documentation.
+Purpose:
+The purpose of this standard is to ensure accurate, timely, and complete reporting of the use,
+expiration, and custody of controlled substances carried by credentialed providers in the EMS
+system.
+Application:
+Each system agency that utilizes controlled substances must implement a tracking system that is
+approved by the Chief Medical Officer. This system must be able to be audited on a regular basis,
+as required by law, or more, at the request of the Chief Medical Officer.
+Receipt of Shipment
+Receipt of controlled substances from a shipper will require verification of the shipment by
+two individuals prior to adding to that agencies stock. Once the shipment is verified, it should be
+added to the tracking system.
+Storage
+Controlled substances will be stored in an area with a minimum of two locking mechanisms,
+at least one of which may be a combination lock and one of which may be keyed (this may include
+a vehicle lock). While on a shift, in the “pouch,” controlled substances must be stored either in an
+area behind two locking mechanisms or on the person of a provider credentialed at the PL-5 level
+or higher.
+Verification
+Master Inventory Safe
+The safe must be audited at the beginning of each week by to approved individuals and
+documented within the narcotics tracking system. No controlled substances may be issued while
+the tracking system is being audited. Any time the safe is opened, existing counts must be verified
+as well. If the count cannot be reconciled, the OCMO must be notified.
+Custody change:
+At shift change, or at other times, narcotics may need to change hands. Both providers
+must acknowledge which specific narcotics are changing hands by referencing vial numbers.
+Providers must document the date and time of this transaction in the narcotics tracking system. In
+the event of a discrepancy, the OCMO must be notified.
+Self-Audits:
+Providers not subject to shift change must audit their narcotics with a witness every two
+weeks. This must be logged in the tracker. In the event of a discrepancy, the OCMO must be
+notified.
+Administration:
+Whenever narcotics are administered, they must be documented both on the patient care
+report and in the narcotics tracker. The narcotics tracker must reference the incident or run
+number. An indication must be documented, the amount administered, and the amount wasted, if
+any, must be written in the tracker. The amount administered must match on both the tracker and
+the patient care report. If any narcotics are wasted, a witness must witness the waste and sign. In
+
+Controlled Substance Tracking
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED06.01.2023 (MD 23-10)PAGE2 of 2CONTROLLED SUBSTANCE TRACKING
+order of preference, witnesses to waste should be: another credentialed system provider, a
+receiving nurse or physician, a TCOLE-certified law enforcement officer.

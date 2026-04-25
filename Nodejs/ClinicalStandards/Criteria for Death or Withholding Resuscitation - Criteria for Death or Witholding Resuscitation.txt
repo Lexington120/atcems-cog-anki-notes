@@ -1,0 +1,63 @@
+
+
+Criteria for Death or Withholding Resuscitation
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED09.27.2023 (MD 23-18)PAGE1 of 2CRITERIA FORDEATH ORWITHHOLDINGRESUSCITATION
+Standard:
+Define the parameters in which providers in the ATCEMS System may withhold resuscitative
+efforts.
+Purpose:
+Resuscitation, including CPR, is to be withheld only if the patient is obviously dead per the criteria
+below or has a valid OOH DNR.
+If you are unsure whether the patient meets the criteria, resuscitate.
+Application:
+Resuscitation efforts should not be initiated or continued by an ATCEMS System Provider if the
+patient is pulseless and apneic and one or more of the following is present. Document in the ePCR
+the specific indications for withholding or terminating resuscitation.
+1. If the patient meets any of the below criteria, any resuscitative care was not continued or
+initiated by System Credentialed Providers, a ≥PL2 may contact communications for a time of
+death:
+1.  Decomposition or Putrefaction – skin bloated or ruptured, with or without soft tissue
+sloughed off.
+2.  Decapitation – the complete severing of the head from the remainder of the patient’s
+body.
+3.  Incineration – 90% or more of body surface area burned with full thickness burns as
+exhibited by ash rather than clothing and complete absence of body hair with charred skin
+4.  Obviously mortal wounds – such as massive crush injury, complete exsanguination,
+severe displacement of brain matter, or complete transection of the torso.
+5.  Patient submersion – greater than 20 minutes from the time the patient was witnessed
+going underwater, from the 9-1-1 call, or from the arrival of the first public safety entity
+until the patient is in a position for effective resuscitative efforts to begin.
+2. If the patient meets any of the below criteria and resuscitative care was not continued or
+initiated by System Credentialed Providers:
+1. Patient with blunt or penetrating trauma is apneic and pulseless without other signs of life
+upon EMS arrival
+2. Nontraumatic arrest with dependent lividity
+3. Nontraumatic arrest with rigor mortis involving major joints such as the shoulders, elbows,
+hips, or knees.
+A BLS provider may contact communications for a time of death after ensuring:
+a) Pupils are fixed and dilated and
+b) Carotid or femoral pulselessness for 30 seconds and
+c) Absence of apical heart sounds for 30 seconds
+An ALS provider may contact communications for a time of death after ensuring:
+a) All requirements under “BLS provider” are fulfilled or
+b) Asystole for no less than 6 seconds in 2 or more leads or
+c) Cardiac standstill via ultrasound
+
+Criteria for Death or Withholding Resuscitation
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED09.27.2023 (MD 23-18)PAGE2 of 2CRITERIA FORDEATH ORWITHHOLDINGRESUSCITATION
+Fetal death with a fetus < 20 weeks by best age determination available at the scene is considered
+products of conception and does not require time of death. Fetal death < 20 weeks may be
+documented on the mother’s ePCR. If > 20 weeks, then create a separate ePCR.
+If resuscitation efforts have been initiated or continued by a System Credentialed
+Provider/Responder, then discontinuation is at the discretion of the arriving > PL5 provider. In this
+case, continue resuscitation, and OLMC must be contacted for Termination of Resuscitation (TOR).
+If a valid out-of-hospital Do Not Resuscitate (DNR) order is presented or found anytime during
+ongoing resuscitative attempts, the providers/responders may immediately stop the resuscitation
+efforts, and a time of TOR may be obtained from communications.
+References:
+Texas Health and Safety Code Sec 773.016;DSHS Rule 157.25 Out-of-Hospital Do Not
+Resuscitate (DNR) Order

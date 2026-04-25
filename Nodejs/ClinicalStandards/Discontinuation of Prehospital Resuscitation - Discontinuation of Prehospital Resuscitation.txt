@@ -1,0 +1,67 @@
+
+
+Discontinuation of Prehospital Resuscitation
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED03.06.2025(MD25-02)PAGE1 of 2DISCONTINUATION OFPREHOSPITALRESUSCITATION
+Standard:
+Unsuccessful cardiopulmonary resuscitation (CPR) and other advanced life support (> PL4)
+interventions may be discontinued prior to transport when this standard is followed as well as
+utilization of the
+Discontinuation of Prehospital Resuscitation checklist.
+Purpose:
+The purpose of this standard is to allow for the discontinuation of prehospital resuscitation after the
+delivery of adequate and appropriate > PL4 therapy.
+Application:
+1. For cardiac arrest with ongoing resuscitation efforts > 30 minutes:
+a. Inclusion Criteria:
+i. Adequate CPR has been administered.
+ii. Airway has been successfully managed with verification of device placement. Acceptable
+management techniques include endotracheal intubation, BIAD, or cricothyrotomy.
+iii. IV/IO access has been achieved.
+iv. Rhythm-appropriate medications and defibrillations have been administered according to
+appropriate clinical guidelines.
+v. Ultrasound use, when available, to determine any cardiac motion.
+vi. Credentialed providers on scene are in agreement with the decision to cease efforts.
+vii. If all of the above are met, then the > PL5 provider will contact OLMC
+viii. If you are presented with a valid DNR, see Exception Criteria below.
+2. The > PL5 provider may contact OLMC for termination of Resuscitation (TOR) within <30
+minutes of resuscitation based upon patient presentation, clinical circumstances, and their
+clinical judgment, see
+Criteria for Death or Withholding Resuscitation.
+a. Providers should continue to resuscitate the following and transport after treatment
+sensitive interventions have been performed on scene due to a higher likelihood of
+resuscitation:
+i. Cause of arrest is due to suspected hypothermia
+ii. Sustained ROSC at any time during the resuscitation
+iii. Persistently recurring or refractory ventricular fibrillation and/or pulseless tachycardia or
+any continued neurologic activity – eye-opening or motor response.
+iv. Ultrasound, when available, determines cardiac motion.
+3. When OLMC is involved in the decision to terminate, then resuscitative efforts must continue
+while:
+a. The family is counseled on the patient’s unchanged condition and impending discontinuation
+of efforts. If termination of efforts is anticipated, then Victim Services should be requested
+as early as possible.
+b. The > PL5 is requesting a TOR from OLMC.
+4. Document all patient care and interactions with the patient’s family, personal physician, medical
+examiner, law enforcement, and OLMC in the ePCR.
+5. Providers should consider external factors such as the inability to secure the scene, cardiac
+arrests in a public place, etc. when deciding whether to terminate efforts or transport. This
+decision should be made in conjunction with law enforcement partners and OLMC.
+6. Patients in the ambulance while resuscitation efforts are ongoing should be safely transported
+to the hospital. Resuscitation should not be discontinued en route, nor should it be discontinued
+and the patient removed from the ambulance. Very limited exceptions exist, and they are
+
+Discontinuation of Prehospital Resuscitation
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED03.06.2025(MD25-02)PAGE2 of 2DISCONTINUATION OFPREHOSPITALRESUSCITATION
+restricted to immediate life-saving management of another patient on the scene, for example,
+during mass casualty incidents.
+7. Following pronouncement, the body comes under the jurisdiction of the Medical Examiner and
+should be treated according to the
+Clinical Standard on Crime Scenes.
+Exception Criteria:
+If a valid out-of-hospital DNR is presented or found anytime during ongoing resuscitative attempts,
+the Providers/Responders may immediately stop the resuscitation efforts, and a time of TOR may
+be obtained from communications; see DNR and Advanced Directives for further information.

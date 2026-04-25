@@ -1,0 +1,44 @@
+
+
+Minimum Equipment to Patient’s Side
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2022 (MD 22-01)PAGE1 of 1MINIMUMEQUIPMENT TOPATIENT’SSIDE
+Standard:
+To establish a minimum list of equipment that will be taken to the patient’s side on every call.
+Purpose:
+ATCEMS System providers are often faced with patient conditions that require immediate
+intervention in order to decrease morbidity or prevent mortality. Time dependent interventions are
+those that must be performed immediately or within seconds/minutes to be effective.
+Application:
+ATCEMS System providers will ensure that the following equipment will be immediately available
+for use at the patient’s side:
+All PL Levels***
+Appropriate PPEDefibrillatorStethoscopes
+BVM with appropriate masks  SuctionB/P cuffs
+O2 with delivery devicesOPA & NPANaloxone (IN)
+Oral glucoseTape4x4 dressings
+KerlixMucosal Atomization Device   Clinical Operating Guidelines
+PL2 and Higher
+CPAPAppropriate iGel airwayEPI (1mg/mL) & IM Supplies
+Albuterol & nebulizer kit
+PL3 and Higher
+Saline lock equipment250mL D10W for InfusionNaloxone (IM/IV)
+PL4 and Higher
+Laryngoscope & blades for
+FBAO
+Magill forceps for FBAO
+PL5 and Higher
+Thoracostomy needles
+Kelly forceps for
+thoracostomy
+Scalpels
+The above interventions are most commonly associated with the following clinical conditions:
+•Obstructed or compromised airway
+•Ineffective ventilation
+•Ineffective circulation
+•Removal from impending, active or ongoing physical harm
+***Be observant for of the level of Disease Isolation Precautions in effect, if any, for the patient
+situation. Should there be no immediate need for equipment to intervene to decrease morbidity or
+prevent mortality, stage the equipment outside the potentially contaminated environment for
+immediate access if the patient condition changes.

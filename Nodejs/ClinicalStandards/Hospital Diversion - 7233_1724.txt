@@ -1,0 +1,73 @@
+
+
+Hospital Diversion
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE1 of 2HOSPITALDIVERSION
+Standard:
+This standard establishes the conditions under which a System hospital may go on diversion and
+the process by which this should be implemented and discontinued.
+Purpose:
+•This standard was developed in cooperation with the hospital networks, the medical
+community and the Travis County Medical Society ED/EMS committee
+•The ATCEMS System employs a general no diversion policy for the transport destination of
+EMS patients with few exceptions discussed below.
+Application:
+1. All hospitals are to remain open to EMS patients at all times except in the conditions
+described herein or in extraordinary circumstances with approval of the Medical Director.
+2. Black-Internal Disaster:
+a. If a hospital with a specialized designation such as a “Stroke Center” experiences
+failure of critical equipment needed to meet that requirement (i.e., CT Scanner) then
+they may close to EMS transports for that particular patient category
+b. If a hospital experiences an “Internal Disaster” such as Fire, Utility Failure or other
+significant infrastructure failure they may close to EMS transports(and all other
+services)
+3. Hospitals which need to close due to Internal Disaster as described above will contact ATCEMS
+Emergency Communications Supervisor at 512-978-0410. They will advise the supervisor of
+the Internal Disaster and/or the critical equipment failure that has led to the closure
+4. Any attempt to divert patients due to reasons other than those listed above should result in
+notification of the on-call Division Chief and the on-call Medical Director.
+5. In each case listed above Transport units, Commanders, Medical Director(s) and other
+individuals will be notified of the change in hospital status via AWACS page to the “EMS-
+Hospital Closure” group indicating that, Hospital XX has an Internal Disaster and is diverting
+the corresponding EMS traffic until further notice. The page will indicate the affected hospital,
+the reason for the diversion and that the facility is on diversion until further notice.
+6. The patient should be informed of the need and reason the hospital is diverting EMS patients
+and; in the absence of a time critical or unstable patient condition the EMS provider(s) should
+recommend that a patient be transported to another network hospital where possible. When
+a time critical or unstable patient condition exists the closest appropriate facility should be
+recommended that is not on diversion.
+a. If the patient refuses the recommended destination the EMS unit should transport the
+patient to a facility (not on diversion) of their choosing.
+7. If a patient insists on being transported to a facility on diversion providers should explain the
+reason for the diversion status and that transport to that facility may result in significant
+delays in their care, worsening of their condition, or even death. Providers should attempt to
+convince the patient of the need to go to an alternate facility. This includes, but is not limited
+to, contacting a supervisor or on line medical control at the diversion facility. If a patient
+insists on transport to that facility and the only alternative is refusal of transport the EMS
+provider(s) should have the patient sign a refusal acknowledging the explained risks of
+transport to that facility and transport the patient to their destination of choice. If that
+
+Hospital Diversion
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE2 of 2HOSPITALDIVERSION
+hospital is unable to care for the patient due to a lack of equipment or expertise (e.g. STEMI
+to non-PCI facility, Stroke to facility without CT capabilities, etc) the EMS providers should
+advise their Supervisor of the situation and upon arrival at the destination remain
+immediately available for transfer of the patient. The length of this availability is to be
+determined in consultation with the EMS Supervisor. The provider should thoroughly
+document their description of the risks and their efforts to convince the patient to go
+elsewhere.
+8. If a hospital has closed to all patient traffic including walk-ins due to catastrophic loss of
+capabilities or potential threat to the safety of both providers and patients then the hospital is
+no longer considered an approved receiving hospital until the condition is removed. Patients
+should be informed that the hospital is closed and that they will be denied access to the
+facility. The patient should be transported to another appropriate facility in accordance with
+#5 above. If a patient still wishes to refuse transport they should be informed of the risks and
+a refusal obtained in accordance with the Refusal of Treatment/Transportation Standard.
+9. If an EMS Supervisor encounters a condition/situation at a hospital that may place providers
+at risk (i.e. riot, gang violence, hostage situation etc.) the Supervisor may close the hospital
+to EMS traffic pending resolution. The Supervisor should contact communications to advise all
+transport providers of the hazardous condition. Communications should immediately notify
+the on call Medical Director and Division Chief.

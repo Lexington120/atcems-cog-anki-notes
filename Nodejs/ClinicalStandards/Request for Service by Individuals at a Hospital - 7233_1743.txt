@@ -1,0 +1,35 @@
+
+
+Request for Service by Individuals at a Hospital
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE1 of 1    REQUEST FORSERVICE BYINDIVIDUALS AT AHOSPITAL
+Purpose:
+To provide a standardized response to individuals who are at a hospital facility capable of
+evaluating and treating them who contact 911 for EMS transport to another hospital.
+Application:
+This clinical standard applies to individuals (not hospital staff) who are:
+1. Calling from a Hospital facility, Psychiatric hospital, or Rehabilitation facility (waiting
+room, emergency department, floor, physical building/grounds, or parking facility)–
+AND-
+2. Are currently registered to be evaluated-OR- have already been evaluated or
+treated by the Emergency Department-OR- currently under the care of a hospital.
+Process:
+1. When a request for service is received by 911, EMS Communications Medics will process the
+call in accordance with MPDS guidelines until it’s determined that the patient meets INPT5
+criteria.
+2. If it is determined that the caller meets any of the criteria described above, the call type
+should be changed to Priority In-Patient Evaluation (INPT5) and the nearest EMS
+Commander should be assigned to the call without a transport unit.
+3. EMS Communications will then contact the Hospital Department Charge Nurse to advise that
+a 911 call has been received from their facility and that an “EMS Commander” will be
+enroute.
+4. Upon arrival the Commander will locate, assess the patient, and confer with hospital staff.
+5. If the patient meets the criteria above and, does not have a new or unaddressed complaint
+the Commander should advise the patient to seek re-evaluation at the current Hospital or
+Emergency Department. If the patient does not wish to do so the Commander may, at their
+discretion, decline EMS transportation of the patient.
+6. If the patient meets criteria above and, the Commander feels the patient would benefit from
+EMS transport to a different hospital they may request a transport unit.
+7. In all cases where patient contact is made by EMS personnel the assessment shall be
+documented in the ePCR in accordance with prescribed standards.

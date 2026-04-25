@@ -1,0 +1,62 @@
+
+
+Telemedicine Consult Guidelines & Process
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2022 (MD 22-01)PAGE1 of 2TELEMEDICINECONSULT
+Standard:
+To establish guidelines and process for all System Credentialed participants and providers when
+utilizing telemedicine as part of patient care.
+Purpose:
+Primary goal is to provide expanded service to our underserved and vulnerable populations,
+relieving pressure on field crews, and keeping more ambulances available for higher acuity calls.
+Patient Selection:
+1. Patient age > 6 months old; and
+2. No history of coronary artery disease (ie. Heart attack, coronary artery bypass); and
+3. No acute hypotensive, syncope, or near syncope event(s); and
+4. No episodes of hypoxia while in EMS care
+5. Can ambulate, function, and perform Activities of Daily Living (ADLs) at baseline; and
+6. Adult vital signs are within the following parameters (Pediatric vital signs within normal
+ranges):
+a. Pulse: 60 – 110 bpm
+b. Systolic BP: 90 – 200 mmHg
+c. Respirations: 12 – 30 bpm
+d. Blood Glucose: 70 – 300 mg/dL; no signs of DKA
+e. SPO
+2
+≥ 93% on room air or prescribed supplemental oxygen
+If patient does not meet above criteria but provider believes that patient would benefit from
+telemedicine, provider may contact OLMC
+Field Providers:
+1. Review Patient Selection criteria.
+2. Determine the most appropriate clinical guideline(s) based on patient complaint and
+presentation.
+3. Perform complete patient assessment, physical exam, and diagnostics as informed by
+applicable clinical guideline(s).
+4. Obtain complete vital signs, including EtCO
+2
+when indicated by patient complaint,
+presentation, or applicable clinical guideline(s).
+5. Use Pulsara, goal is to include a picture.
+6. Lead provider contacts telemedicine and use standardized reporting format.
+7. Assign the telehealth provider to your EHR.
+8. Document telehealth interaction in addition to standard patient care and narrative.
+C4:
+1. Screen for Patient Selection criteria.
+2. Determine the most appropriate clinical guideline(s) based on patient complaint then review
+the indicated assessment, exam, and diagnostics with field providers.
+3. All telemedicine calls are made using Pulsara.
+4. Use standard format with brief intro to telemedicine provider, majority of findings and
+patient information needs to be communicated from the lead field provider to the telehealth
+provider.
+5. Document interaction and consult.
+6. Send discharge instructions to patients when able.
+7. Follow up / Call back as directed.
+
+Telemedicine Consult Guidelines & Process
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2022 (MD 22-01)PAGE2 of 2TELEMEDICINECONSULT
+Telehealth Provider:
+1. Complete telemedicine consult using video and Pulsara.
+2. Document telemedicine consult in EHR(s).

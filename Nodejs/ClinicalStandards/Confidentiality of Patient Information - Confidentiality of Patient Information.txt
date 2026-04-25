@@ -1,0 +1,41 @@
+
+
+Confidentiality of Patient Information 
+       CLINICAL OPERATING GUIDELINES CLINICAL STANDARD 
+UPDATED 02.01.2021 (MD 20-14) PAGE 1 of 1 CONFIDENTIALITY OF PATIENT INFORMATION
+Standard:
+To establish system-wide standards for the protection of patient identity and/or health information,
+include photographs and video records.
+Definitions:
+Health information: Any information possessed by a healthcare provider regarding a
+patient’s medical history, mental or physical condition, treatment, or the specific circumstances
+surrounding an identifiable incident.
+Protected Health Information (PHI): Individually identifiable health information that is held
+or transmitted in any form or medica, whether electronic, written, spoken, printed, digital,
+recorded, or photographic, which can be linked to an individual or there is a reasonable basis to
+believe it can be used to identify an individual.
+Personally Identifiable Information (PII): Any information that can be used to distinguish or
+trace an individual’s identity, either alone or when combined with other information. This includes
+direct identifiers such as name or social security number, as well as indirect identifiers, including
+date and place of birth.
+Policy:
+Persons receiving care from Austin-Travis County EMS System Providers have the right to expect
+that their confidentiality will be reasonably preserved. Therefore:
+a)   Providers shall not disclose medical information, images, or videos without first obtaining
+authorization from the patient or the patient’s legally authorized representative, except
+when such disclosure is legally permitted or required by law.
+b)   As a general rule, providers should limit their disclosure of PII and PHI to that which is
+necessary for patient care.
+c)   While on duty, providers may not utilize personal devices to record video or take
+photographs of emergency incidents unless prior written authorization is obtained from
+the Chief Medical Officer or their agency Administrator of Record.
+a.   Any devices utilized to record video and/or photographs at emergency incidents
+must comply with appropriate state and federal law.
+d)   Any recordings taken during an emergency incident shall not be altered in any way and
+must be made available to performance improvement staff and records retention
+personnel if requested.
+e)   Each agency should create a streamlined process for collecting and securing any video
+and photographic data that is collected on emergency incidents.
+This rule applies to all providers while on duty in the ATCEMS System. Additionally, providers are
+responsible for ensuring that students, riders, etc. on their unit adhere to the same standards of
+patient confidentiality and shall report breaches in confidentiality to their chain of command.

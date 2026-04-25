@@ -1,0 +1,39 @@
+
+
+DNR and Advanced Directives
+CLINICALOPERATINGGUIDELINESCLINICALSTANDARD
+U
+PDATED02.01.2021 (MD 20-14)PAGE1 of 1DNR & ADVANCEDDIRECTIVES
+Standard:
+If any provider of the EMS System is presented with a completed Out of Hospital Do Not
+Resuscitate (OOH-DNR) form and/or OOH-DNR ID device, the provider shall withhold CPR and the
+listed therapies in the event of cardiac arrest. The form and device may be from any (US) State.
+Refer to
+DSHS Rule 157.25, and/orDSHS Rule 166if applicable for Advanced Directives.
+Purpose:
+To honor the terminal wishes of the patient and to prevent the initiation of unwanted resuscitation.
+If you are unsure whether the patient meets criteria, then resuscitate.
+Exceptions:
+1. The provider shall begin resuscitation efforts until such time as a physician or OLMC directs
+otherwise when:
+a. The patient is known to be pregnant.
+b. If there are any indications of unnatural or suspicious circumstances.
+c. If the provider is unsure of the existence or validity of the DNR.
+d. An advanced directive does not imply that a patient refused supportive or palliative care.
+Application:
+1. When confronted with a cardiac arrest patient, the following conditions must be present in order
+to honor the DNR request and withhold CPR and ALS therapy:
+a. Out-of-Hospital Do Not Resuscitate (OOH-DNR) or OOH-DNR ID device; original or copy.
+b. Valid original or copy of OOH-DNR written order or OOH-DNR ID device from any US state.
+c. A licensed physician on scene or in contact by telephone orders that no resuscitation efforts
+are to take place.
+2. A DNR request may be overridden by:
+a. The patient or person who executed the order destroying or directing someone in their
+presence to destroy the form and/or remove the identification device.
+b. The patient or person who executed the order telling EMS providers or the attending
+physician that it is their intent to revoke the order.
+c. The attending physician or physician’s designee, if present at the time of revocation,
+records in the patient’s medical record the time, date, and place of the revocation and
+enters “VOID” on each page of the OOH-DNR.
+3. If there is a question regarding whether to honor an OOH-DNR or Advanced Directive, initiate
+resuscitation and contact OLMC.
